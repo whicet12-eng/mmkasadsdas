@@ -1,0 +1,82 @@
+[
+  {
+    "index": 0,
+    "name": "Wallet 3 (Funding)",
+    "address": "0x5e9e7e37e553d6cc79eD671E8B861b1693cFA5fF",
+    "username": "miner_5e9e7e",
+    "apiKey": "orex_83f310e1c32949b0907e871432d57c37fe41f82d3c1234df",
+    "balance": 109.146881
+  },
+  {
+    "index": 1,
+    "name": "Worker #1",
+    "address": "0xde0cDb54997eaeC4679449B5C2cF442009A744B8",
+    "username": "miner_de0cdb",
+    "apiKey": "orex_aae81255ae66aef48b9a16ee773bca444766e4e462ec25e1",
+    "balance": 25.20338
+  },
+  {
+    "index": 2,
+    "name": "Worker #2",
+    "address": "0x5353e4E8c425752C729810892bB2F5ac81e40246",
+    "username": "miner_5353e4",
+    "apiKey": "orex_6bae1b1731236b52572ac04e8ac1d43ad0efb29712fc874f",
+    "balance": 10.998543
+  },
+  {
+    "index": 3,
+    "name": "Worker #3",
+    "address": "0x935C75780007563bF1a388e268c2DA3a4Ae26aA9",
+    "username": "miner_935c75",
+    "apiKey": "orex_ead9e726ec695906d87e45e483a6d889a42bf3449f7dc129",
+    "balance": 0
+  },
+  {
+    "index": 4,
+    "name": "Worker #4",
+    "address": "0xaCFF74f4014CcA0AB66E28844d3a017E7642bC35",
+    "username": "miner_acff74",
+    "apiKey": "orex_954fb0f1c9f2dbaba51695c31042660d6373150f5b299903",
+    "balance": 0
+  },
+  {
+    "index": 5,
+    "name": "Worker #5",
+    "address": "0xe17F32ED211f23453AD743a6EF1de1e50148AA2c",
+    "username": "miner_e17f32",
+    "apiKey": "orex_f74d3b34d31347eef7a11978dca031be26c65f79e4b81883",
+    "balance": 0
+  },
+  {
+    "index": 6,
+    "name": "Worker #6",
+    "address": "0x19908A1be3C01D09291367563363A83553347bDc",
+    "username": "miner_19908a",
+    "apiKey": "orex_b2d227828bbeb4da9ed1d764fc7c2222b7b27ea0a2d2edea",
+    "balance": 0
+  },
+  {
+    "index": 7,
+    "name": "Worker #7",
+    "address": "0x75dB57Ed430EcE82d38AfE50A83167f15dD275B3",
+    "username": "miner_75db57",
+    "apiKey": "orex_5d3ebaddc2d87b30b4f7a03eb87ecd9aad0bdd8d3dfda535",
+    "balance": 0
+  },
+  {
+    "index": 8,
+    "name": "Worker #8",
+    "address": "0x039498428f8BdF1177C64e60D5D37d564Bf694a3",
+    "username": "miner_039498",
+    "apiKey": "orex_19fe5e1a93e99d7bb0f9c530ef78d59f5bbc388a927a3c7b",
+    "balance": 0
+  },
+  {
+    "index": 9,
+    "name": "Worker #9",
+    "address": "0xD69464d811AAD77421B5D80901B4dfB31eE7C8ae",
+    "username": "miner_d69464",
+    "apiKey": "orex_3e3e528558586ff9ed2257c0bd36fe6f688b987ebf57b43a",
+    "balance": 0
+  }
+]

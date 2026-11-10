@@ -1,0 +1,32 @@
+[
+  {
+    "id": "uppcoder2",
+    "name": "Node 1 (memek)",
+    "user_host": "hg7v3umq@hg7v3umq-c-c-memek.uc-fsn1-002.uppcoder.com",
+    "port": "2222"
+  },
+  {
+    "id": "uppcoder3",
+    "name": "Node 2 (kaank)",
+    "user_host": "aggz31kc@aggz31kc-c-c-kaank.uc-fsn1-002.uppcoder.com",
+    "port": "2222"
+  },
+  {
+    "id": "uppcoder4",
+    "name": "Node 3 (mmmmmmmmm)",
+    "user_host": "iwsdhiz5@iwsdhiz5-c-c-mmmmmmmmm.apps-2.websson.cloud",
+    "port": "2222"
+  },
+  {
+    "id": "uppcoder5",
+    "name": "Node 4 (asda)",
+    "user_host": "i6qpmi1e@i6qpmi1e-c-c-asda.apps-2.websson.cloud",
+    "port": "2222"
+  },
+  {
+    "id": "uppcoder6",
+    "name": "Node 5 (Intel Xeon)",
+    "user_host": "po1nctdq@po1nctdq-c-c-https-portal-uppcode.apps-2.websson.cloud",
+    "port": "2222"
+  }
+]

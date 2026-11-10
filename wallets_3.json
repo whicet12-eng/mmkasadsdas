@@ -1,0 +1,20 @@
+[
+  {
+    "index": 0,
+    "name": "Wallet 3 (Funding)",
+    "address": "0x5e9e7e37e553d6cc79eD671E8B861b1693cFA5fF",
+    "privateKey": "0xb954df5dd4945341cc9ae8e0a5eb132d95857204301fa0de9aa5687ff6b93ba4"
+  },
+  {
+    "index": 1,
+    "name": "Worker #1",
+    "address": "0xde0cDb54997eaeC4679449B5C2cF442009A744B8",
+    "privateKey": "0x4b952b591566c81714d30f112d484a77e3995add4ca20db60e827d345ee9f8ee"
+  },
+  {
+    "index": 2,
+    "name": "Worker #2",
+    "address": "0x5353e4E8c425752C729810892bB2F5ac81e40246",
+    "privateKey": "0xa8bfe2067b49976cd4e000a08263772165426553dc7917e51bb3ec68acce00e1"
+  }
+]
