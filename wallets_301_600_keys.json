@@ -1,0 +1,2102 @@
+[
+  {
+    "workerNum": 301,
+    "name": "Worker #301",
+    "address": "0x3d9C591f36a69AE741A7c415938Ae7ef9345A478",
+    "privateKey": "0xb349eab8ec2c1e26c31c719dd2401fae5075709f5323ac946746c5f9537c1c4b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.174.70:3129"
+  },
+  {
+    "workerNum": 302,
+    "name": "Worker #302",
+    "address": "0x4b14C209Fdf80E75f06004CDAde616C1BFe11463",
+    "privateKey": "0x74d22684e826b9b35e5d3bd161005be96beb46808f7fbcf5a0ea5094b4e853c2",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.43.145:3129"
+  },
+  {
+    "workerNum": 303,
+    "name": "Worker #303",
+    "address": "0x9f0e71990860Be461DC5Fdbab08C9B52689260D6",
+    "privateKey": "0xf8a0b29ef4e8b2a5d5b422b667b2c4e512a26fdb9bb0c14ad8a0ea729367f9fb",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.171.89:3129"
+  },
+  {
+    "workerNum": 304,
+    "name": "Worker #304",
+    "address": "0x116490ca466841100004232103cd45845E089975",
+    "privateKey": "0xb99bea4a6cddfa11d1ac525b71d95d0abf1f0ef9da621f450fcaecc667fef87d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.181.9:3129"
+  },
+  {
+    "workerNum": 305,
+    "name": "Worker #305",
+    "address": "0x1d80807aE5CE87ca74Dc405f0083f8e4b06cA19e",
+    "privateKey": "0x6e376df25e172a8d96e849586f36d2267e34773230f8d885eda1d9d2ac36d24b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.227.252:3129"
+  },
+  {
+    "workerNum": 306,
+    "name": "Worker #306",
+    "address": "0x699fcDDBaaA0eFe856e7e77c31858D9C1E075a56",
+    "privateKey": "0x64cd13d496fdd9f012891f49838512873590b3a901786a5fccf620acf45aacbe",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.5.147:3129"
+  },
+  {
+    "workerNum": 307,
+    "name": "Worker #307",
+    "address": "0x999c786B17560d9B9Ce7E79D69cA4622E598918e",
+    "privateKey": "0x762bd14cbdec3da6a5f6baaf9cf7b987d6807c6e55263366cb8168be021177d5",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.35.172:3129"
+  },
+  {
+    "workerNum": 308,
+    "name": "Worker #308",
+    "address": "0x831091325fD9D65061911E73e11eE721bA962604",
+    "privateKey": "0x0ce62814e4c95def2fe677b8607e7538a9034b0377f6ad87d6a46ec63e661231",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.240.170:3129"
+  },
+  {
+    "workerNum": 309,
+    "name": "Worker #309",
+    "address": "0x862dF84037fa85eE656122c3F212Db29292f4813",
+    "privateKey": "0x4f5dee71f25e1b10377fa758e8c5a0de4360d6e2905bbe7612fe0249bfe0deee",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.179.184:3129"
+  },
+  {
+    "workerNum": 310,
+    "name": "Worker #310",
+    "address": "0x004A7136182F95b1539BcE345E88c5F5b373f09d",
+    "privateKey": "0x409256ba8a56c15c926426b6d29a9501e46902a43633ca9c41b2489bd8e2a931",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.242.135:3129"
+  },
+  {
+    "workerNum": 311,
+    "name": "Worker #311",
+    "address": "0x0c02A333c86cf140e5cb33F65c1BAb4E9e2f7e92",
+    "privateKey": "0x1063661aa85ec9d55801b9ad47fc9471da2a31a69597f8cab4004787808dbd4a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.78:3129"
+  },
+  {
+    "workerNum": 312,
+    "name": "Worker #312",
+    "address": "0xFbD1b38f6a3bF8737fDdAe91B7fa3bc19404A262",
+    "privateKey": "0x8355df33fdce568cdd6b7241610c938f81a4c8592ca9b9ce77cf7c6f19e96e59",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.44.81:3129"
+  },
+  {
+    "workerNum": 313,
+    "name": "Worker #313",
+    "address": "0xd0Be126b4cEDa5ECAE99615aa7D3f1A67CeB60a7",
+    "privateKey": "0xc95c7374f1af46735ed55817e6af1d529a055a8828cd6e0eee18259c38c9435b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.10.211:3129"
+  },
+  {
+    "workerNum": 314,
+    "name": "Worker #314",
+    "address": "0xE3069cb742348C82a8546b4eaaE96ec7912a604c",
+    "privateKey": "0xe590b5283aed0474ab87e3b70a3bf79abcf4f921e4404500cff61628f2b58a15",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.57.19:3129"
+  },
+  {
+    "workerNum": 315,
+    "name": "Worker #315",
+    "address": "0xB8423D5aE5B6dBc630aa9230Cc1f2369f6f9aE1D",
+    "privateKey": "0xa55025cefb9599cf2961caaccc05ba59de90b4cbf369a8eaf4376b70299f8190",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.12.167:3129"
+  },
+  {
+    "workerNum": 316,
+    "name": "Worker #316",
+    "address": "0x0605bB6D95286a7AdF3A8A8CC49198E3bf52694F",
+    "privateKey": "0x67ea5bcc1d1e5a0ce7c225c824e9c94fea43ce24851ffb362ef4256bc9151264",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.245.171:3129"
+  },
+  {
+    "workerNum": 317,
+    "name": "Worker #317",
+    "address": "0x28B162e882ff528cbd6C7B947Afe2c072d30cCCc",
+    "privateKey": "0xbaf020603e9e1fb217f7c73f790c7c5728a1563aa7102905e4f484ddd8d14ff6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.47.81:3129"
+  },
+  {
+    "workerNum": 318,
+    "name": "Worker #318",
+    "address": "0x2626061FE1F8874708cB2E3F84d998F9e974b9aD",
+    "privateKey": "0xd8eb457c0f9535e8b552d70266acefaf4dbef0e770aaf9a77fa61ecf76bbfb66",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.167.19.79:3129"
+  },
+  {
+    "workerNum": 319,
+    "name": "Worker #319",
+    "address": "0x6fcE9035CE83b094aEB2417e21d11C7af06750BE",
+    "privateKey": "0x3de954ca986fce643f70403a4fed74909e0f916ec7c812e30e336a0ded9aab5c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.250.231:3129"
+  },
+  {
+    "workerNum": 320,
+    "name": "Worker #320",
+    "address": "0xb9c0D2636D6C351dca0D891B54396C99615B8286",
+    "privateKey": "0x483a46b4404e790207959cb83a2aa1b7d7fb908e20d13ff460cb1c586a44b5fa",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.255.73:3129"
+  },
+  {
+    "workerNum": 321,
+    "name": "Worker #321",
+    "address": "0x488C518De1E7CdC0EBF32f5b56d7D080E9EC6Dae",
+    "privateKey": "0xc21c8ecfb7a9d927d83d0c6f380e358219a5597675c4c2ecd9285e7c7e52989c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.35.187:3129"
+  },
+  {
+    "workerNum": 322,
+    "name": "Worker #322",
+    "address": "0xcD589C02EF2aF55aB68E2995FFE8acdB743de64A",
+    "privateKey": "0x926a79b0e7e02d131cdad8c41a78ba3d5d487ad378e6a67a5c94d9d0f2a7cfa5",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.243.182:3129"
+  },
+  {
+    "workerNum": 323,
+    "name": "Worker #323",
+    "address": "0xe84a2C0dF6c4beD498b4edfB54347bD3FE0dCf86",
+    "privateKey": "0x67828dd5fed887270b06d4dcbc9917fd27c97f0b85c042d0655cf7e424819051",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.53.29:3129"
+  },
+  {
+    "workerNum": 324,
+    "name": "Worker #324",
+    "address": "0xfD3E895Db7b4341107c7490EBD93184625d71692",
+    "privateKey": "0x66f55254e62cdda7196a11dc2ca8c856173947f318b1b86bc5b951d584a21dca",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.47.136:3129"
+  },
+  {
+    "workerNum": 325,
+    "name": "Worker #325",
+    "address": "0xCb5081a59235F8A54fC7fCf47598A11931e72121",
+    "privateKey": "0x05fbee1f508bb4f4fe7e91898e4761abe27dc26ff79d67c5a49c77733d437c1a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.249.178:3129"
+  },
+  {
+    "workerNum": 326,
+    "name": "Worker #326",
+    "address": "0x4328415C362Be1d2912b0d083ced656c7B7Bac3F",
+    "privateKey": "0x9fc0087ff7dc120a84120cd54cfa8c388f01c9efe02311ed67d83b4a156aa077",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.61.2:3129"
+  },
+  {
+    "workerNum": 327,
+    "name": "Worker #327",
+    "address": "0xEf479082bC85263E83aB67b5950EEA50cAc4467D",
+    "privateKey": "0xfb8493a05708429a6ae3976fe3ee5a694ba55ab1396a6c0e6af240a5103d1b5d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.180.99:3129"
+  },
+  {
+    "workerNum": 328,
+    "name": "Worker #328",
+    "address": "0x1D863687C88a4b93e69c56687740152D2a6aF1eC",
+    "privateKey": "0x94a3970f59fe0ce2c76b518cc0dd248367ad70c215c71cc254258311185ef5de",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.37.254:3129"
+  },
+  {
+    "workerNum": 329,
+    "name": "Worker #329",
+    "address": "0x1d5e4E05B0B574d336055CC35C41600Eaa4243ac",
+    "privateKey": "0x53f700b1ab00ce05e9eb0ed9438eb80bfd8feda3c52f519524dd4c8604e146ab",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.173.184:3129"
+  },
+  {
+    "workerNum": 330,
+    "name": "Worker #330",
+    "address": "0x6fB9Da638Df9Ab2485dB0a12283e0A28CC2C8218",
+    "privateKey": "0x4b55c6c0d8ce37d043ffe041c8ecdd77e2867b1ea56aa387891ceee2134d06f1",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.39.191:3129"
+  },
+  {
+    "workerNum": 331,
+    "name": "Worker #331",
+    "address": "0xc6BBb7BB754b537E9602Be74Ec20809EBF800eBa",
+    "privateKey": "0xbf3321d8f2ad3d6bbf0862cd2449156f064dcbc590191a9c0aa70c7e953f57b6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.224.174:3129"
+  },
+  {
+    "workerNum": 332,
+    "name": "Worker #332",
+    "address": "0x9a34ea5911A2b8A8607A993842f50A888804B118",
+    "privateKey": "0xcb02be0bbdf5f5c14ee81a8600856d2dfbaeaea0d4629a6e0a71e7763f86b489",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.56.216:3129"
+  },
+  {
+    "workerNum": 333,
+    "name": "Worker #333",
+    "address": "0x67aC7D237C84Ca531d14e9ec55F80C4EFC2761F8",
+    "privateKey": "0xff119df2b1ff016945b0b5b3547e58feea7489c32b1bd4ebd7b22a01e4a0ae59",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.52.23:3129"
+  },
+  {
+    "workerNum": 334,
+    "name": "Worker #334",
+    "address": "0xE236cf4F49a17845958fCC920f9E88778324Dfe7",
+    "privateKey": "0x248354f2fd5c2dd88193c0482b90c5e89a1984b6be23b21b6cbfb9e7e99c92c0",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.165.116:3129"
+  },
+  {
+    "workerNum": 335,
+    "name": "Worker #335",
+    "address": "0x5dC9717Fbd4A10F64F4517fDBFD7f1081a0eA2b7",
+    "privateKey": "0x50d0c2b75460558b537c6d9e53aed34e2082ffe6712b6b12046eb427c188bc6a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.249.165:3129"
+  },
+  {
+    "workerNum": 336,
+    "name": "Worker #336",
+    "address": "0x2CBB922Ca8F32fB051cBFd380ed06a99D09Ab862",
+    "privateKey": "0x5746b4f5d5d488c487b00df505921384875017778930a3f7cab55b3b4d81f955",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.53.165:3129"
+  },
+  {
+    "workerNum": 337,
+    "name": "Worker #337",
+    "address": "0xbDc76DbC35A466003D38a602dB2BfAe19c561890",
+    "privateKey": "0xb04ac782403346626c3fd77c4e3468f503eacaa60a6db053ce89eede3964efff",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.62.188:3129"
+  },
+  {
+    "workerNum": 338,
+    "name": "Worker #338",
+    "address": "0x5B89f7729403548395d1e6DdEb9fA4505890Cf85",
+    "privateKey": "0x6f2caa5a0483e511747d7af369790c703bea185a8bc2254841733eb08664ac51",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.251.9:3129"
+  },
+  {
+    "workerNum": 339,
+    "name": "Worker #339",
+    "address": "0xA3a3B51e0Ffb6a3Dc566ba3e2bE57Df7864399B7",
+    "privateKey": "0xf2fd7efa3caefb5f9f305e52d401e311f54d4d6cfa86050a8b0eb34e0578b126",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.36.60:3129"
+  },
+  {
+    "workerNum": 340,
+    "name": "Worker #340",
+    "address": "0x9cfd828c1A1be7E625e3c539424c77f6557AB7Cf",
+    "privateKey": "0x30205874a368eaeccd497de57cb6c77bc5479800b1e1652dfacd9cfc5ced82be",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.230.180:3129"
+  },
+  {
+    "workerNum": 341,
+    "name": "Worker #341",
+    "address": "0xb70D57DFF543ACe0989208Dcbe780B1dcBa064BE",
+    "privateKey": "0x177c29ac6a774e9b54fd61bd6552099c3587f4ee0aa21c08ace663a97fb21ad7",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.177.97:3129"
+  },
+  {
+    "workerNum": 342,
+    "name": "Worker #342",
+    "address": "0x820b47C280C83fD5955f445Da8C19D8AEA77e319",
+    "privateKey": "0xd73b3a50ea32502a6f9881a13a5ea850e4a56ea77a899c939da1f47b9c3b8cdc",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.32.105:3129"
+  },
+  {
+    "workerNum": 343,
+    "name": "Worker #343",
+    "address": "0x5CF150EaCFD800C6Aed51c73f2c96791f638c1d1",
+    "privateKey": "0xd08c6af40532b8c888071f794a460d21ae16922fa4cfbc6cd1abf133a6b66a0e",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.51.255:3129"
+  },
+  {
+    "workerNum": 344,
+    "name": "Worker #344",
+    "address": "0x56A57041E0c64111CD57d108796189817B73DB2F",
+    "privateKey": "0x0889218b86c96a207c88e28e5a0bacb2a1045e99837fe9af0856ba9f296fd221",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.34.147:3129"
+  },
+  {
+    "workerNum": 345,
+    "name": "Worker #345",
+    "address": "0x0Cb9C5e768Eae51449A5aaF6B2d23e474DbB9149",
+    "privateKey": "0xd1627c00e06e4627fb1ecaf733926770346ec3ce8756ff55d36f7d5cb994c6a0",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.15.128:3129"
+  },
+  {
+    "workerNum": 346,
+    "name": "Worker #346",
+    "address": "0x054E6546Cde7a338ac5760C668d4EbE11aA831fF",
+    "privateKey": "0xd36329925932abe9e9b3eca11c65a36faca07099c546ca341795dc3ea857bdac",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.188.66:3129"
+  },
+  {
+    "workerNum": 347,
+    "name": "Worker #347",
+    "address": "0x01dA7Dd5cFCB1Ad082b698C0c958E58e7d029c0c",
+    "privateKey": "0x146a8db51d31a6e6c138f780bb2b87b8bd757f01f4d38e1ad958229a8ddf0b6d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.51.69:3129"
+  },
+  {
+    "workerNum": 348,
+    "name": "Worker #348",
+    "address": "0x9b83423F40A4bb04208840066bAf1e3275F9dbB0",
+    "privateKey": "0x9db66c910e79c347524af99634acc4f4fffa965b87a9f4d378338e0d2187fa8a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.168.212:3129"
+  },
+  {
+    "workerNum": 349,
+    "name": "Worker #349",
+    "address": "0x26f9097704904c34E4277b768E3BC4faa27974a1",
+    "privateKey": "0xb066fc478cff3d807ec09f0a2e0ee640d4fbb4c6b3a1e837f52bda402cca65fa",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.231:3129"
+  },
+  {
+    "workerNum": 350,
+    "name": "Worker #350",
+    "address": "0xd4b2333c71332E487969B378A183dAf679b5485D",
+    "privateKey": "0x85e57a1a7467271a0e8851a93d341cfe92b6624218e442032c773ba8157af2fa",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.56.3:3129"
+  },
+  {
+    "workerNum": 351,
+    "name": "Worker #351",
+    "address": "0x769aB550b196E4da0a16C886aE2143b6Bd8e8979",
+    "privateKey": "0xb1a9f64893159a0274c831dfdef1c9b0b50d9cf9f2c4d35f96d4aeea09516be2",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.48.0:3129"
+  },
+  {
+    "workerNum": 352,
+    "name": "Worker #352",
+    "address": "0x772fb66eDD0644109A163d33798fD6ae815e6ED4",
+    "privateKey": "0xbf84c5a7b109e670f414558ea8fce02b84c1b7529a78cad00d820c955d640230",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.227.238:3129"
+  },
+  {
+    "workerNum": 353,
+    "name": "Worker #353",
+    "address": "0xdB11670114B93401B7A3E63D0868Aa5b2A19F61e",
+    "privateKey": "0xccd1e7428fd7f11aa2dd2a028a00d3783d3a1445c58777c7146676e0beba7b6e",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.231.15:3129"
+  },
+  {
+    "workerNum": 354,
+    "name": "Worker #354",
+    "address": "0x31AdDA88637316BBaB2EF810b78261949f1d8a00",
+    "privateKey": "0x5de7a1b31d4acf2d6154aa4d0a00ab2dfa3e5116221cd44b7520566dae3ee6ce",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.4.162:3129"
+  },
+  {
+    "workerNum": 355,
+    "name": "Worker #355",
+    "address": "0xbc1482F4a858faA26e967aD9F48417f13Cb998e9",
+    "privateKey": "0xf3da60f1cbeba4180da5a1d5d19e17e07eaec2cfcee72e0c5c4fb8efb973be7b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.176.95:3129"
+  },
+  {
+    "workerNum": 356,
+    "name": "Worker #356",
+    "address": "0x4D0C31B5B1FbFf14B0603A2581619A4047DB50dA",
+    "privateKey": "0x8c23c9d2b88ac68d4d43115328c54c6c01f94120fa8537163d161d4a996f4079",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.255.54:3129"
+  },
+  {
+    "workerNum": 357,
+    "name": "Worker #357",
+    "address": "0x393f948749EC41D4ed31877cc8944AE6F3a008c4",
+    "privateKey": "0xc4d572d687e6eebed86e0d7dcc90b63a872650e324a0855f7b6dbcd5aa009362",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.1.106:3129"
+  },
+  {
+    "workerNum": 358,
+    "name": "Worker #358",
+    "address": "0xe5F43676FCb3289A36ED8a04D9F4d8a106852b46",
+    "privateKey": "0x7a8dd07e97aa2852b3adc14447dddd819d6d2de73fdf77f1adbfd207877771dd",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.252.126:3129"
+  },
+  {
+    "workerNum": 359,
+    "name": "Worker #359",
+    "address": "0x3179F7c6e8409FA9FD96860C9f4920540b54887a",
+    "privateKey": "0x3c2ffd3909054e03c57cdafefa70d5233da0e6e173f3cd0a3c8a8e1f5dd11e43",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.180.64:3129"
+  },
+  {
+    "workerNum": 360,
+    "name": "Worker #360",
+    "address": "0x56c5D05a537e815758E978D8c537c2939E718a81",
+    "privateKey": "0x42c5a38b1b1111d6044a41f5d743ca48437e200e6279d1245475f0d43697b698",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.252.146:3129"
+  },
+  {
+    "workerNum": 361,
+    "name": "Worker #361",
+    "address": "0x51D33e68277725bA18B95C7984B086883b3Fe91d",
+    "privateKey": "0x668397ee9965767a6da3fd5be4a597672e0cd054ba6a5f09f23963637a03e4ab",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.167.25.125:3129"
+  },
+  {
+    "workerNum": 362,
+    "name": "Worker #362",
+    "address": "0xBd7F543FaA93Ec4C68561cd7bFb8fD74a869A84F",
+    "privateKey": "0xad78b91b98fa4aeb1ecf84ecc1a79113c01bd17329ff06f81ff0b09fafc205f9",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.23.207:3129"
+  },
+  {
+    "workerNum": 363,
+    "name": "Worker #363",
+    "address": "0x467fD6e0ffb17aaE488dA23e128E8be53f46E657",
+    "privateKey": "0x9f7a0e94f943b4910d57ff1a7f8280d662eb58c998f54461b1660610b85e27a1",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.179.163:3129"
+  },
+  {
+    "workerNum": 364,
+    "name": "Worker #364",
+    "address": "0x67295d4b9e9141A7463c1A80f4840b19b700b5b4",
+    "privateKey": "0xb21c10a6249e2ccbad406573d397e36fb45837570bc52690f9faadd79d84a3fc",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.42.119:3129"
+  },
+  {
+    "workerNum": 365,
+    "name": "Worker #365",
+    "address": "0xDB179fcA8878CBB33E3a36b6498aE1B411ac2bd1",
+    "privateKey": "0xb30519c62537417afa906b1e1bda647b086d4f98706086304a1eff844208e192",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.40.188:3129"
+  },
+  {
+    "workerNum": 366,
+    "name": "Worker #366",
+    "address": "0x468aa1D5d3C75963C55Df4333a993c1E3311C56a",
+    "privateKey": "0xfc9296303e063ea448da516da7864ea2d30343efaf64aefeb64cf1fdb3c3e139",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.4.55:3129"
+  },
+  {
+    "workerNum": 367,
+    "name": "Worker #367",
+    "address": "0x75ac5Ca5dfFf5adc7c5e8B095F91E427d2A2F663",
+    "privateKey": "0x0f89afe6c09147877f41e9272ec0ed0ff90761b48214614598007322227d881e",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.42.164:3129"
+  },
+  {
+    "workerNum": 368,
+    "name": "Worker #368",
+    "address": "0xEc499B68a21ed0ca44D8C049428F6DC4A9402f4A",
+    "privateKey": "0x9e166ea6a11f387b797662393fd0f13729d0d02bd0096d82604ac0eb927c7e62",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.166.80:3129"
+  },
+  {
+    "workerNum": 369,
+    "name": "Worker #369",
+    "address": "0x385c2Cc5E9A7C94bbd94889CC80D91128c591D6f",
+    "privateKey": "0x1a38309c28dac58bf1aaacdd94c5c2dd63709072daf64bd78e8131c35ad1fa55",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.54.200:3129"
+  },
+  {
+    "workerNum": 370,
+    "name": "Worker #370",
+    "address": "0xb83aC644f4E73d9C6B3fAad3AF8a487923560457",
+    "privateKey": "0xb8718224442debaa9c59a29a995885e3e92b59fe5563bd2d4832b0f710cbd412",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.50.167:3129"
+  },
+  {
+    "workerNum": 371,
+    "name": "Worker #371",
+    "address": "0x7A237108B22c533F4A77e7223065eFC8ce430BCB",
+    "privateKey": "0xfd7e8cd5e95eda82b15e4a630f0ca532cfa093a8e29f4173ab832b7f0b1bdb37",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.41.194:3129"
+  },
+  {
+    "workerNum": 372,
+    "name": "Worker #372",
+    "address": "0xaf960711e35Dc5FE97f85967B43Ee6366Cafb7E3",
+    "privateKey": "0x67fb38be5145f392c26b3c641fb843237dd8b6e770edf0f48ae82678558c1352",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.244.206:3129"
+  },
+  {
+    "workerNum": 373,
+    "name": "Worker #373",
+    "address": "0xA2e5982B4dBdf802A86F15D7E4035914bdec4244",
+    "privateKey": "0xe18d34d738639dbd3645f4ba700155b212f6ef221193d1fae72b3581ed64a5f9",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.188.58:3129"
+  },
+  {
+    "workerNum": 374,
+    "name": "Worker #374",
+    "address": "0x55c7A92EB5184d7528F98c3Fa839D2564F1D3039",
+    "privateKey": "0x6384eebc0adee00e445ff871676fb003f1c86365b1f63c773fd72ebbfda687de",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.47.234:3129"
+  },
+  {
+    "workerNum": 375,
+    "name": "Worker #375",
+    "address": "0xe019eD4f7e19B3C8d0FC001F57d7E1BC8510c736",
+    "privateKey": "0x1be2ecab4e92e64cad5011bc0114a82239bdd158c52c81d04b8e0c682aa29db2",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.34.147:3129"
+  },
+  {
+    "workerNum": 376,
+    "name": "Worker #376",
+    "address": "0x73BC70Ef5C9157670131bb8088ae75bb6c57a704",
+    "privateKey": "0x35b45c8a7480c9ecc49ce59ffec62069b7db653c9b7f6f54e5c6c20ec70751e6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.37.190:3129"
+  },
+  {
+    "workerNum": 377,
+    "name": "Worker #377",
+    "address": "0x4710ECc40525a45f9C199f867Ae9e8f5584181B7",
+    "privateKey": "0xdb5f63ec1b7987d08eddbf1add2e9e6c4d2198d6938dc97c695d437a5431a1e4",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.246.253:3129"
+  },
+  {
+    "workerNum": 378,
+    "name": "Worker #378",
+    "address": "0xd8EE85eAF9d0947848a67ec91635825D26b5448C",
+    "privateKey": "0xf808b58a68223d6ee6fa7d4fca1ac135e0e5fd4932ec05f325357f8b4db0db3b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.160.201:3129"
+  },
+  {
+    "workerNum": 379,
+    "name": "Worker #379",
+    "address": "0x38569564D8B4Ac4987E7165A4258Dbf73396fe7C",
+    "privateKey": "0x79f96c55020a37f145c6fd846a29695d8bff63da1269a054d70399eb977106c9",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.112:3129"
+  },
+  {
+    "workerNum": 380,
+    "name": "Worker #380",
+    "address": "0x758de1b3B3Ac1538e0f8511D22A285C320D22b3F",
+    "privateKey": "0xe932f829d00ff8eef9cf7422c53909bcf05c8502dad3445d7f0028c9bae6e19c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.254.35:3129"
+  },
+  {
+    "workerNum": 381,
+    "name": "Worker #381",
+    "address": "0xb54F22e7aa4980A55C5561253DDA1B9e333a5245",
+    "privateKey": "0x289211dfe59bdcb0699c27a96eef3c347779e6c80f1ea0481e992b4be91b13ef",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.173.76:3129"
+  },
+  {
+    "workerNum": 382,
+    "name": "Worker #382",
+    "address": "0x62198F986d5acE821cDF90f27710741b027520b0",
+    "privateKey": "0xe3eae55c0276152a2b3e52f61ad8ee152c653ebbf404fdb3e91c001a02be32c5",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.30.160:3129"
+  },
+  {
+    "workerNum": 383,
+    "name": "Worker #383",
+    "address": "0xB6b2eeDA4009c67B05462CA609bb872E6f9f044d",
+    "privateKey": "0x8d45e93c0bba747a32fdab710a326233d648fcdd1be8d70a930327d168dfdcbf",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@151.123.176.251:3129"
+  },
+  {
+    "workerNum": 384,
+    "name": "Worker #384",
+    "address": "0xD01537AC6B1f9978c87a03cac30D492159B75067",
+    "privateKey": "0x9c72564c5842462ee4ca327df99ba3fa9be5d9781b4c7af74bda0cf0fc14ace2",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.160.29:3129"
+  },
+  {
+    "workerNum": 385,
+    "name": "Worker #385",
+    "address": "0xd93b3cC5d676e6C92cB949Ff14EF61E7d95F47d4",
+    "privateKey": "0x5079203537243090143dd36cbaecd828cb8c7f843bbd9ff4be5b0f7682596103",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.125:3129"
+  },
+  {
+    "workerNum": 386,
+    "name": "Worker #386",
+    "address": "0xbB7F30a32837775bd002aE6814F7Db52d8a79654",
+    "privateKey": "0x12f65fdff24208ddceddc1c1784e075747ba47afc84ceb30856eae525f0a6596",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.54.183:3129"
+  },
+  {
+    "workerNum": 387,
+    "name": "Worker #387",
+    "address": "0x4491dAf944dD7B7E1dCF4D00e76a7f127925E79B",
+    "privateKey": "0xd8c5ebe05bfaf58846a12d7b1c3c9424e6cde63d625e0394a333ab50ad10cdb6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.181.108:3129"
+  },
+  {
+    "workerNum": 388,
+    "name": "Worker #388",
+    "address": "0xB3A306E3C76d04E79F696dD114AC7dbfcC79f3FD",
+    "privateKey": "0x061b05ed5f6e586cbd1142ac0c38673e76bb13fe18b29a37642772d12fb0f40b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.61.144:3129"
+  },
+  {
+    "workerNum": 389,
+    "name": "Worker #389",
+    "address": "0xCBFC340681ADB6D9EDF5bF7Dca4a279209bc69b6",
+    "privateKey": "0x5b86bd8754863c609523bd4dd3caadaf17d46d225044169c78b3ba06e53b592e",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.243.104:3129"
+  },
+  {
+    "workerNum": 390,
+    "name": "Worker #390",
+    "address": "0x8BF434A073C7084Fa1C8EED73bf4E3C5d4959f30",
+    "privateKey": "0xd3b3fd48512ee824f101b37ffd09b2db450cd846baca3e71b21ea8572ab24e85",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.59.143:3129"
+  },
+  {
+    "workerNum": 391,
+    "name": "Worker #391",
+    "address": "0x24bDdb41663e07cd2F9ad77E33f4Bc96B25E398b",
+    "privateKey": "0xf697937795346cb7a456e4a213719d5385e1acb807d6eb470aa77e89fc840995",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.30.90:3129"
+  },
+  {
+    "workerNum": 392,
+    "name": "Worker #392",
+    "address": "0xD635868C150dC0d24798Db9A18c97f14Fd56a105",
+    "privateKey": "0x527387a5b4424a6933c57aa8ea5592994166b656d12b6861692811f643279c47",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.253.3:3129"
+  },
+  {
+    "workerNum": 393,
+    "name": "Worker #393",
+    "address": "0x46A4a9BA5f99d1c8218129892a3Ec3dc87d8783f",
+    "privateKey": "0x1df24f726a3b7a30ab01ae81ba7cb0d866afdbb329c0864c94292c0ef0dbfec5",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.176.182:3129"
+  },
+  {
+    "workerNum": 394,
+    "name": "Worker #394",
+    "address": "0xDD71fc4F857D474A0c4e2c82891E0fd424A37d63",
+    "privateKey": "0x834d9aec358cdd0a37c5d82c9580db1eacdd0345930b7bc26ef87ad9174ad7f0",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.46.20:3129"
+  },
+  {
+    "workerNum": 395,
+    "name": "Worker #395",
+    "address": "0xe8990043Fe5a6cC9dc1fFb9EA8d1a936AC8a391a",
+    "privateKey": "0x7c35053b794ab7e7a6a51025a0345f11f695b6883edbdae0d148f399cf736e31",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.40.10:3129"
+  },
+  {
+    "workerNum": 396,
+    "name": "Worker #396",
+    "address": "0x9bC67d44A05969c459eacbCDDae0Dcaa7b55B7Ab",
+    "privateKey": "0xfe7590a0f43f55829bfa9b21acf06a10771310a8c89c0bd6853ed45c08a687bd",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.39.58:3129"
+  },
+  {
+    "workerNum": 397,
+    "name": "Worker #397",
+    "address": "0x34895Bdc75cfDfEB105F2b945EE2AD2fd3410746",
+    "privateKey": "0x3d583a14575d9d8251f56a8fc082f2df87159a137da8d4d1acb3238bc28f2c30",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.230.104:3129"
+  },
+  {
+    "workerNum": 398,
+    "name": "Worker #398",
+    "address": "0x23Fd3591e9d90B816176fcffc1c0c2771C537Ee1",
+    "privateKey": "0xa28919092c93b712e9ccd6c47fd686f1606894bb7cf2857512a5bf4891bd7eb7",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.238.214:3129"
+  },
+  {
+    "workerNum": 399,
+    "name": "Worker #399",
+    "address": "0xf33009319CD3f01739eD2B64337A0861Fd6D9228",
+    "privateKey": "0x602ded6c146ed449c074ae9050c8a420d5e5aa057f86bc2f4dfc9bb1b5f36667",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.36.76:3129"
+  },
+  {
+    "workerNum": 400,
+    "name": "Worker #400",
+    "address": "0x64cc88924185412B8c97cda5241135a0604ECf13",
+    "privateKey": "0x806f2e1b26db5e77056f81f00e0f9df61c4c869eb3f1bce4d01103fff8449cca",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.56.152:3129"
+  },
+  {
+    "workerNum": 401,
+    "name": "Worker #401",
+    "address": "0x55ae9805F5628b5ad5BEBF9c891c6935F53dEAe5",
+    "privateKey": "0x8efa7c240d184d4a04421938a5e2ab360a6760c1065a40236bbee08d16e6253f",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.174.70:3129"
+  },
+  {
+    "workerNum": 402,
+    "name": "Worker #402",
+    "address": "0x33a5F3B1D568B554e3e778fAaeE227bA1Bd465cE",
+    "privateKey": "0x3bfb134399160e025e5a6cc716b68dfbb3b6dc9e64ef76f55a6e935293eb5910",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.43.145:3129"
+  },
+  {
+    "workerNum": 403,
+    "name": "Worker #403",
+    "address": "0xd19d2df425060e780A2F3E0C351aF2b0499c7b0a",
+    "privateKey": "0xcd68d03dbd55c216eff4559e30198dcf1795ec0f67a7da8f0a7c00f12609802b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.171.89:3129"
+  },
+  {
+    "workerNum": 404,
+    "name": "Worker #404",
+    "address": "0xc19409961B760A2d781715324Fc28d09d30035B0",
+    "privateKey": "0x35e6de07e9631a36187a0100194305a22c1e3e16f2e40e9de4c58385df98cee1",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.181.9:3129"
+  },
+  {
+    "workerNum": 405,
+    "name": "Worker #405",
+    "address": "0x329609E4c17FD23c4221Ac628e132b655a0Dc097",
+    "privateKey": "0x70c0fe30ca03e4d71d0d7ff1860a65c730c2994d7e2c72dffc971eda525b1f65",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.227.252:3129"
+  },
+  {
+    "workerNum": 406,
+    "name": "Worker #406",
+    "address": "0xBcF6036410C67336Ed3492cF896c6e9DC1C080b1",
+    "privateKey": "0xb933c670456695b4c9afc32c1b657fa0ff3bacf8cf32f40d38f369fb6eb538dd",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.5.147:3129"
+  },
+  {
+    "workerNum": 407,
+    "name": "Worker #407",
+    "address": "0x4a2Ed2C0ac58CA888EB7f98515d639579c6D4429",
+    "privateKey": "0x5c6c112dc49ba4f50ad09f4a7c6a2f487a0c05e1e40dd38be500d4e39cdbccc7",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.35.172:3129"
+  },
+  {
+    "workerNum": 408,
+    "name": "Worker #408",
+    "address": "0x79C0A19a24876882b7c5D1E684f481E3b2197141",
+    "privateKey": "0xc538ea0ca216a1a8c453ef94d103931876d16b840c870bedc7b590b14e2f9707",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.240.170:3129"
+  },
+  {
+    "workerNum": 409,
+    "name": "Worker #409",
+    "address": "0x5Ad3390BB45f55aAb1D8fC166E16F48ce533D0e4",
+    "privateKey": "0xf1e763c55b5129de12746aa96044c362d387739c12cfb0cf261533685e2867f6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.179.184:3129"
+  },
+  {
+    "workerNum": 410,
+    "name": "Worker #410",
+    "address": "0x7b859d99104F46521Af0355B638F6c292cA9DAaF",
+    "privateKey": "0x904e63c14a74149375a14a6814f9d43e60c64b94d63e4e638b1a0a52ccc51157",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.242.135:3129"
+  },
+  {
+    "workerNum": 411,
+    "name": "Worker #411",
+    "address": "0x37b86b7c94e36f026746196f1955F21264a4e911",
+    "privateKey": "0x86fe75a9be0ba7eb1539948fe5b9a42d9d77ca10c0e0dbd282920c5181a4ba3a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.78:3129"
+  },
+  {
+    "workerNum": 412,
+    "name": "Worker #412",
+    "address": "0x56F46e777Cb6A9DF48483d3a7cbD9a67dbf8AAd3",
+    "privateKey": "0x05538c6a56d95bddb32f86f47394b437647276119408433d3ea5bd9601f7d575",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.44.81:3129"
+  },
+  {
+    "workerNum": 413,
+    "name": "Worker #413",
+    "address": "0x254F9bA22cDce944B20F8b7d288750775E1D734F",
+    "privateKey": "0x1bf982af1fd4e971ed0b48eaf5777314dc5bf4dc73b70014cb12343e74afbdb0",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.10.211:3129"
+  },
+  {
+    "workerNum": 414,
+    "name": "Worker #414",
+    "address": "0x1Dc87370667e68D69138b8004F8e1435e997115f",
+    "privateKey": "0x127dd389a3414a66696149e365c2efd6521c6e0882c67e579fb23751f2cd7715",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.57.19:3129"
+  },
+  {
+    "workerNum": 415,
+    "name": "Worker #415",
+    "address": "0x0725c03Bc94C0CB6755c808E7E8fA866e6b3D0b0",
+    "privateKey": "0xadb960e9c6cf9b8610d8f48145979996e11193c6bbfb12d4c39ae23900d79ccb",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.12.167:3129"
+  },
+  {
+    "workerNum": 416,
+    "name": "Worker #416",
+    "address": "0x1Ee61A4f42D369b834508fCAC35dE54BF7c168a0",
+    "privateKey": "0x2ddf5048812007dc91c1260bf18b56c79239fdc6d6943775bec2025f8bd3551c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.245.171:3129"
+  },
+  {
+    "workerNum": 417,
+    "name": "Worker #417",
+    "address": "0x851eC48D49222BD96045bF9AE93ABa3fD82a49b3",
+    "privateKey": "0x9bf9f2e5c3bfb619280e44db4f54acf0d5e33b2966ce5359d9f3a5fdfed6c955",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.47.81:3129"
+  },
+  {
+    "workerNum": 418,
+    "name": "Worker #418",
+    "address": "0x764105017ba0034f22F96fC7ea948741B1A0CCB3",
+    "privateKey": "0xd0d169480ebab5401be7dea2807332d6c2afcf4920aa7af61cce17540ed51b77",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.167.19.79:3129"
+  },
+  {
+    "workerNum": 419,
+    "name": "Worker #419",
+    "address": "0xEFcd8730317bFa18A97Cc2A3fAe662f355584FED",
+    "privateKey": "0x3a148d09cc82592176cbd480319d9fdf93eac4261a08e9fff4d540359cd3ff26",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.250.231:3129"
+  },
+  {
+    "workerNum": 420,
+    "name": "Worker #420",
+    "address": "0x7Cf09c399cBD17DECD751CD42C0F81a542Aa0295",
+    "privateKey": "0xf5e87181c249cf3e61e0289ac379586f79855a77b01485ce97abc3905401daad",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.255.73:3129"
+  },
+  {
+    "workerNum": 421,
+    "name": "Worker #421",
+    "address": "0xF7372eDC65Cbef9d2D9229cb76074F3ee8521D2F",
+    "privateKey": "0x5c073d7f9e1df82c8c3aad43ab192605092efe217a1c449aa864a81ea86e0570",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.35.187:3129"
+  },
+  {
+    "workerNum": 422,
+    "name": "Worker #422",
+    "address": "0x7130c06D7020F8ac4B76219ddD54fB9E5f1e80aB",
+    "privateKey": "0x22a6b6cf505834f9678d844694b1d1b71e68de6044152a37531e842cc62783c6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.243.182:3129"
+  },
+  {
+    "workerNum": 423,
+    "name": "Worker #423",
+    "address": "0xC1aa9cdF772173000b4C30420E28D5c7b3B4A0c0",
+    "privateKey": "0x3424463a824f644891143b63391904965e7176467c6a52fb58692a076f2c44c8",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.53.29:3129"
+  },
+  {
+    "workerNum": 424,
+    "name": "Worker #424",
+    "address": "0x9Ea6A971F8d753F0021789f0560FEf45efd37C81",
+    "privateKey": "0x42f9b6f630b971bc58a7aea67f51b403d596d2254c2655ed1a4a651a755cff39",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.47.136:3129"
+  },
+  {
+    "workerNum": 425,
+    "name": "Worker #425",
+    "address": "0x4e6Cc8E802f1F1167FECc348bDb39efd634f637d",
+    "privateKey": "0x6be7cf46b6688aae8988e968790742a5036bf5b3aacf9b1083381cde3e4c725d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.249.178:3129"
+  },
+  {
+    "workerNum": 426,
+    "name": "Worker #426",
+    "address": "0xC4e7b0bF5d2cF01cfB0E37d871ae2aF2BeCEdB99",
+    "privateKey": "0xd1418254cc23eb22d81d825f87bcb6cbdafe93b138182e634067d5429416d24c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.61.2:3129"
+  },
+  {
+    "workerNum": 427,
+    "name": "Worker #427",
+    "address": "0x6499436Ed6fceCA478405f4D40b0a6791479dEfB",
+    "privateKey": "0xa4207c9599489ffc3bb53ef844af1520bd0383ade2236a10f04d16ed8fe012b9",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.180.99:3129"
+  },
+  {
+    "workerNum": 428,
+    "name": "Worker #428",
+    "address": "0xe22E9CC62210Ac01ab30acE158Ae350c2A9bFcd6",
+    "privateKey": "0x50cd34348f9c05965296a98b1a13163a82b671ab5ff3dd8d34a546ce230e5f79",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.37.254:3129"
+  },
+  {
+    "workerNum": 429,
+    "name": "Worker #429",
+    "address": "0x10d6f12c650E51C4c2fF4d38BfE5355FB019521d",
+    "privateKey": "0xd836d43200ccc9af7335ff2f9edaf844198ef79daeb7351b90e9eec0781fed02",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.173.184:3129"
+  },
+  {
+    "workerNum": 430,
+    "name": "Worker #430",
+    "address": "0xeEa797A0AA8A24975a9d84E6E53B298c81167Cca",
+    "privateKey": "0xb88a673bfb150ca5f150a47b4bb0e9e0d6604c1a188db3b2646536a022aeeb6c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.39.191:3129"
+  },
+  {
+    "workerNum": 431,
+    "name": "Worker #431",
+    "address": "0x8cb2798Ac6044c3D661317f365E08AcE8De77ACc",
+    "privateKey": "0xf24db7686a645aaa32284fbbaa152d9e2812dab928c93f4a893b65bfef562cd4",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.224.174:3129"
+  },
+  {
+    "workerNum": 432,
+    "name": "Worker #432",
+    "address": "0x5CdF0f04F76ADFd38f83744d64c80BC9d59db65f",
+    "privateKey": "0x5b5e1e122bae1a09664b8cf8deb33cb985004ed0b55cc99f2ff1fab9282da24a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.56.216:3129"
+  },
+  {
+    "workerNum": 433,
+    "name": "Worker #433",
+    "address": "0x0784fD21B24631EA2453781696179B468639D0aD",
+    "privateKey": "0x825fd62c2383c33028620af975ce9f97d536117ba60aad3c87312418088893ba",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.52.23:3129"
+  },
+  {
+    "workerNum": 434,
+    "name": "Worker #434",
+    "address": "0x7B6Ab522A1D7C8ee1693AEc0B8fA2c93a66dA08f",
+    "privateKey": "0x27759f99edf1e755510e1a70e4bb45ab342bcf767c8827bcbbda6c8cb363ba09",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.165.116:3129"
+  },
+  {
+    "workerNum": 435,
+    "name": "Worker #435",
+    "address": "0x65be2613F0B6E735207500E5C0134a26cF8DF8C2",
+    "privateKey": "0xa5bf0b891628c378ba884a3c20a9d9dd1f14af72769831e1347b26171b76260f",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.249.165:3129"
+  },
+  {
+    "workerNum": 436,
+    "name": "Worker #436",
+    "address": "0x73a7f7bDb0e253AE43983a3bede6f40318367AEE",
+    "privateKey": "0x44a93c04675542ad7e9145323e72d5f3a17d68ddfd1d0541fec3b9d1a6359c2b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.53.165:3129"
+  },
+  {
+    "workerNum": 437,
+    "name": "Worker #437",
+    "address": "0x5F9642e5863FB4dB5E9A2b5Af1D2319B8a1aEe1a",
+    "privateKey": "0xff41514e1e066a4b291a664625a5e2dd0c946e264f3d409d3c7bba1096563a51",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.62.188:3129"
+  },
+  {
+    "workerNum": 438,
+    "name": "Worker #438",
+    "address": "0x0183C04743C5FEaD33624fdCEdC67bAE8Ff403e1",
+    "privateKey": "0xb2903142c5f38921753e8e94a97bbac23bbcd1eb069ffe12a2abaf834e813b73",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.251.9:3129"
+  },
+  {
+    "workerNum": 439,
+    "name": "Worker #439",
+    "address": "0xbAf4D7D369e7f63aEdcEd9afC88e968Ad98df298",
+    "privateKey": "0x59fd33fe3ac08b70ed8d0125334bb74ea04894cefc5bfb5584862885bea4d848",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.36.60:3129"
+  },
+  {
+    "workerNum": 440,
+    "name": "Worker #440",
+    "address": "0x89DE2C54ff876b8DE026A3eb930E3082AB7cDDc2",
+    "privateKey": "0xa175379c004019070e2e97cd9521c54ad1166cb749047167d04ad00fa1e17657",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.230.180:3129"
+  },
+  {
+    "workerNum": 441,
+    "name": "Worker #441",
+    "address": "0x4005060e26d339EB4fF8eA7715b5C18969BE7685",
+    "privateKey": "0x2f9a139c72c53022d1069853132bdcf35667aff02a9b4835b4eac7951c9f2c2a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.177.97:3129"
+  },
+  {
+    "workerNum": 442,
+    "name": "Worker #442",
+    "address": "0x54eC1e0D7b28271D626a224Fe29fE3E7F1748cF7",
+    "privateKey": "0xba59d9f86fc4ee11ea907f9f38949c52fb42a86c14a467221e02a9cbf0839cec",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.32.105:3129"
+  },
+  {
+    "workerNum": 443,
+    "name": "Worker #443",
+    "address": "0xB0a6852DFBB9573Daa4cEf955d481908324dfcd4",
+    "privateKey": "0xe4020c1cc9bf5da43fb69151cebec4c70a758a0dc9b70149c63e87454c13c9cd",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.51.255:3129"
+  },
+  {
+    "workerNum": 444,
+    "name": "Worker #444",
+    "address": "0x1Be72E28A6F5faAdd8da682E8f04c1d583caF3C4",
+    "privateKey": "0x750e5cc31c3c727f10fee5be2ee7e907e3f1f06624a0564f3e946594470220af",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.34.147:3129"
+  },
+  {
+    "workerNum": 445,
+    "name": "Worker #445",
+    "address": "0xfB2C32D535F77b62E373D7d9233becc53c376a6D",
+    "privateKey": "0xc14910176642aa215b7ac511960ded12a67251f8700ee0ae3f3eaeca2d4d0c1f",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.15.128:3129"
+  },
+  {
+    "workerNum": 446,
+    "name": "Worker #446",
+    "address": "0xbaE059e32C1e2c21FBe89F64F68a647203BE90fB",
+    "privateKey": "0x2e8001afd0a818751997a6e6983b448b0c52c1267115d1f69305c7d919761256",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.188.66:3129"
+  },
+  {
+    "workerNum": 447,
+    "name": "Worker #447",
+    "address": "0x2De2986192548F4ee73064730F38fAb005025e23",
+    "privateKey": "0x267992b959c7885b37dfda7325175b684c3bab556ec3fc12136a11e70ac612b5",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.51.69:3129"
+  },
+  {
+    "workerNum": 448,
+    "name": "Worker #448",
+    "address": "0x6ed26FeD9C0891D8960ef77DDC5a79774a0F6692",
+    "privateKey": "0x3ec34c76a1762be9060a42e12fedd8af001b7d782949040b84d1ee933a4da43a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.168.212:3129"
+  },
+  {
+    "workerNum": 449,
+    "name": "Worker #449",
+    "address": "0x4ECA59b23aDDFd8af730Cb9B8fC005FC35BD7d08",
+    "privateKey": "0x9e7af0b864f17b14740b84e665c883c4ef8a1c15df1cfed1d0b0774cbd627c40",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.231:3129"
+  },
+  {
+    "workerNum": 450,
+    "name": "Worker #450",
+    "address": "0xcE8A993aa5e7e355729E25a3eDb802d67e447CDD",
+    "privateKey": "0xc1c543c673620cbf1beec0ed382e36b42549f36ac0ed9aeb1e756050c4ac7dde",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.56.3:3129"
+  },
+  {
+    "workerNum": 451,
+    "name": "Worker #451",
+    "address": "0xE04Df56d0e4FeA035946213458472C86705aa4cd",
+    "privateKey": "0xc99813edd51334aa338419da05c277f34d24c8c15a44f188e934abc76ae734e6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.48.0:3129"
+  },
+  {
+    "workerNum": 452,
+    "name": "Worker #452",
+    "address": "0xC26DB5c428CB537068C081B1F245dfe9A36a8C2a",
+    "privateKey": "0x2666626ed860a415c8280cdf79bad1cb6f44d2f1fdc158e389cc8430709bd4fe",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.227.238:3129"
+  },
+  {
+    "workerNum": 453,
+    "name": "Worker #453",
+    "address": "0xb63599f7f3E7da69ff1CEbf3809C40B090f3C00A",
+    "privateKey": "0x9acc6cd23daa580d479660fe86b85696acbad43b2c33e9b7f74a6ec28552088b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.231.15:3129"
+  },
+  {
+    "workerNum": 454,
+    "name": "Worker #454",
+    "address": "0x977DB401ABaa8bB9Cb4b946B097e261083BEa44E",
+    "privateKey": "0x373b757f0d658ac3b735240bdbe75714138405ebbb984bc83833a5df5a6de91d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.4.162:3129"
+  },
+  {
+    "workerNum": 455,
+    "name": "Worker #455",
+    "address": "0x683a178F9EB64f1BcDB8d6bE85C69AB0F7aF5b0E",
+    "privateKey": "0x09f11d1bdd6bf882e5b32b58349b87d3c33e341f82bf3a882a41305d8abf4724",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.176.95:3129"
+  },
+  {
+    "workerNum": 456,
+    "name": "Worker #456",
+    "address": "0x7b79F7Eb148ab11108253Ada3aA0c80761b93DF5",
+    "privateKey": "0x6787289c45642ef7a0857df9889a34d70668a1473a6d45db32cde906653f8cfa",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.255.54:3129"
+  },
+  {
+    "workerNum": 457,
+    "name": "Worker #457",
+    "address": "0x6d5DC55934854ff0B03263BBF84791756bA6ca25",
+    "privateKey": "0xc11843d310293b67a6a6c06441ce1ea9544385893a87471745dbe7f4f8b141c3",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.1.106:3129"
+  },
+  {
+    "workerNum": 458,
+    "name": "Worker #458",
+    "address": "0x8a476d94638D63539F3fEb300661d8F63e529376",
+    "privateKey": "0x7479c4152b6ea5e2e5700c799f54030422cc596d5c308770151184e31eacfc77",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.252.126:3129"
+  },
+  {
+    "workerNum": 459,
+    "name": "Worker #459",
+    "address": "0x0f8079ACF2926D2731e26b0348d3Fafd8e99A1A8",
+    "privateKey": "0x72860a48677d730be56c98bfd97ff269d3edd3351d54408cec3a99fa56554c7f",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.180.64:3129"
+  },
+  {
+    "workerNum": 460,
+    "name": "Worker #460",
+    "address": "0x8799E7189A08104accf428e00cc72e5c82c8b916",
+    "privateKey": "0x567097bdde27ee274b8b29c1648c91b9051179faab54d5c218129efb1d182a35",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.252.146:3129"
+  },
+  {
+    "workerNum": 461,
+    "name": "Worker #461",
+    "address": "0x5F68C2b2e40cA2571b4caf652F3A42128F217501",
+    "privateKey": "0x8524ad1513ddf9bd8094f9679ced03b74e90c618b4fc51a6c5e982fa160cda0b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.167.25.125:3129"
+  },
+  {
+    "workerNum": 462,
+    "name": "Worker #462",
+    "address": "0x08bd77845394B362dDbd70Ad22a7fce7B3AD3001",
+    "privateKey": "0xdaa7eaa6aaca4586c56439c1a56add942e9e2429d0da1c0808b1c13277bed683",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.23.207:3129"
+  },
+  {
+    "workerNum": 463,
+    "name": "Worker #463",
+    "address": "0x9474241e2344103f0743c516B0281ec7e1381d29",
+    "privateKey": "0xfd023132369ae74706c68f822f5a55fd4d90cc8ad15e1efc96285de13e104291",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.179.163:3129"
+  },
+  {
+    "workerNum": 464,
+    "name": "Worker #464",
+    "address": "0xB037EA73cfa1e866b1d286Efb8212d6b16399F1B",
+    "privateKey": "0xea048ecf953a9a83a8c74b289abcb2a8264d3bd5d2a994f0706296b516fd69fa",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.42.119:3129"
+  },
+  {
+    "workerNum": 465,
+    "name": "Worker #465",
+    "address": "0xA3aA215F8c221B0b85D2302538f96e4F1Da902c4",
+    "privateKey": "0xfcc464e041729d4cd6ad715d55d0479a0f9bf33e5077c9e7f043a6ba3eb71864",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.40.188:3129"
+  },
+  {
+    "workerNum": 466,
+    "name": "Worker #466",
+    "address": "0xBB1599C0648E9D040321Bf27B18174f282495ad7",
+    "privateKey": "0xcb0cb40440efd50602be3201156e02e8551ce7026246e87d8af195e6824a4eec",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.4.55:3129"
+  },
+  {
+    "workerNum": 467,
+    "name": "Worker #467",
+    "address": "0x23703832B7f12e87F62137887E4D2B7d3d1B0f13",
+    "privateKey": "0x7abf9e3447168cc458a58ec914c60e1400a2258e9f7d8b1fda7aef36734f9cfa",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.42.164:3129"
+  },
+  {
+    "workerNum": 468,
+    "name": "Worker #468",
+    "address": "0x218ee8f9b48A01DD8F62B066647cbFf2Ab00FDA5",
+    "privateKey": "0xccc6096c1eaae637f01f491153e760ce0f66f2dee4bdb0558ca1855af620cc01",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.166.80:3129"
+  },
+  {
+    "workerNum": 469,
+    "name": "Worker #469",
+    "address": "0xD21Fb87a289Be592d7413AaffFDbA4a27EF0E01E",
+    "privateKey": "0x16ef35920126f85939ae476956ada90af7fb04569cc762cc4f9ab185af66be4a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.54.200:3129"
+  },
+  {
+    "workerNum": 470,
+    "name": "Worker #470",
+    "address": "0x540E58532FCfBf367E656dd46dA66C942623F398",
+    "privateKey": "0x3c7eeaf6c7f5dd02e22c844ede3f3b6f132884c1b6506a8ec720a0fd8452b378",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.50.167:3129"
+  },
+  {
+    "workerNum": 471,
+    "name": "Worker #471",
+    "address": "0x785378312E51D5b17af6673c561402267F2E69D2",
+    "privateKey": "0x1f0fedce8742cf88de1e15fbf16dcfadfc3a6777b643e82375a8336df8657132",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.41.194:3129"
+  },
+  {
+    "workerNum": 472,
+    "name": "Worker #472",
+    "address": "0xA935f664009E57601C63E55b05eaF51B455d53D0",
+    "privateKey": "0xe615478e341598af7ff6b4ce0e44fff7599e5dc33ae8b88de8a3ff4c70b158d7",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.244.206:3129"
+  },
+  {
+    "workerNum": 473,
+    "name": "Worker #473",
+    "address": "0x9751ed1549ad5119b81C6e7AA56742e07f3Df443",
+    "privateKey": "0xe92fada1365ade2aed3d948c5cc336b74b960c80069e24dce0db231ffb3a4507",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.188.58:3129"
+  },
+  {
+    "workerNum": 474,
+    "name": "Worker #474",
+    "address": "0xe9dEb466BD9f7D9AfCc4E4F61170E0426fA8041e",
+    "privateKey": "0x2d26a6539afd0242ee10036cfb68d3c01efe2894e15f12975800df613a44a9d1",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.47.234:3129"
+  },
+  {
+    "workerNum": 475,
+    "name": "Worker #475",
+    "address": "0xAf2084388344c899CAcCB36e7AC061b4f2d14852",
+    "privateKey": "0xd64ebdff3de8e94a59a5ff12830b543db947b4aaa2094c6303ae5c86a8ea0fbc",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.34.147:3129"
+  },
+  {
+    "workerNum": 476,
+    "name": "Worker #476",
+    "address": "0xA6F1fc307CF265DFeA27E818477d7A2E5572D2F6",
+    "privateKey": "0x8641f9ab3e8df3fb94242b731873978849f7e58acdbcbecaafcaa57f34e8faf0",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.37.190:3129"
+  },
+  {
+    "workerNum": 477,
+    "name": "Worker #477",
+    "address": "0x210933f0C492D2167D229B7199375715e115847B",
+    "privateKey": "0x2d328dc797349bef11c26c96ac7501de78f0a56d33193542f6bd4f321dc0bf5c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.246.253:3129"
+  },
+  {
+    "workerNum": 478,
+    "name": "Worker #478",
+    "address": "0x85BC72ead7f6d60f9e8C1a2959F3B852500313c8",
+    "privateKey": "0x35d1e602ee8935bab173c55c6e09e9ea9e73d2adf19502e461ad0ddaad690209",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.160.201:3129"
+  },
+  {
+    "workerNum": 479,
+    "name": "Worker #479",
+    "address": "0x75714374BE1Dfd6D43Ad1B8d8f88AD4F6362EF38",
+    "privateKey": "0x14184a31441d289601c7ab91dce4f3398271ce0261d87837cbc5627a88d8e1c1",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.112:3129"
+  },
+  {
+    "workerNum": 480,
+    "name": "Worker #480",
+    "address": "0x929E0d94562d00c169A96C1a9e3aB736C1575c0A",
+    "privateKey": "0x552ef3f8baca5f71e3d5c5eebf1b135c91180826e2117d6d16c4fd2511f5a52c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.254.35:3129"
+  },
+  {
+    "workerNum": 481,
+    "name": "Worker #481",
+    "address": "0x05F45E9E1839cf232D219B410785B7F4866Fa08B",
+    "privateKey": "0xfdf104db2af3a3aef4b9c902199e9215b5726826e3e3ce2e5843e0d622f66daa",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.173.76:3129"
+  },
+  {
+    "workerNum": 482,
+    "name": "Worker #482",
+    "address": "0x2FCDe8444Af76D28D7c0b99738614446Cc585c91",
+    "privateKey": "0x69d3b1de1ad4dbbe6bab1d328bbe2ad1ef894e22c78c08a43f104ba6cd94743f",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.30.160:3129"
+  },
+  {
+    "workerNum": 483,
+    "name": "Worker #483",
+    "address": "0xFE825a53AC6bB20704d54844c0Fc981904fab2fd",
+    "privateKey": "0x4488453e489953a238f881312f4684f9b72b205211048674bbd89e5da18a62aa",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@151.123.176.251:3129"
+  },
+  {
+    "workerNum": 484,
+    "name": "Worker #484",
+    "address": "0xe89199E8321026FD457B402c01dB50945682512b",
+    "privateKey": "0x59a112b70994e0b53dce042a465c62e79800873e821207ef943d110d3d44772b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.160.29:3129"
+  },
+  {
+    "workerNum": 485,
+    "name": "Worker #485",
+    "address": "0xB0642f9880ED1B468fb113572b8ca79FF5021dD8",
+    "privateKey": "0xda209c878646254a2259f844b7f62d0eb56f04294c258d2f91227dac0ec6ce3f",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.125:3129"
+  },
+  {
+    "workerNum": 486,
+    "name": "Worker #486",
+    "address": "0xB0AfAa932B5cfCD3bac6858a61551872250b0607",
+    "privateKey": "0x8c4e553549353be1755873361bfa3c473e4f6129da462b9c4f6ab51a2d8c8eea",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.54.183:3129"
+  },
+  {
+    "workerNum": 487,
+    "name": "Worker #487",
+    "address": "0x83779f4D2b38786c583c5Fc9a0FE14253935c80F",
+    "privateKey": "0x725558ed75b4b78604e43ac674818457ff5248397778b1e1b97773d365b9a64e",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.181.108:3129"
+  },
+  {
+    "workerNum": 488,
+    "name": "Worker #488",
+    "address": "0x83B0FB6011306f320Af60c271007D55DB08922F8",
+    "privateKey": "0x2ce5ea65d7681d16e45bb147ce149704c5cbbfbbde65cfcdb3c8a7623fe0aa5a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.61.144:3129"
+  },
+  {
+    "workerNum": 489,
+    "name": "Worker #489",
+    "address": "0xC582Ac802B2591BF2260AE022a47421827EE8925",
+    "privateKey": "0xfea445b83fabf9b0356462893735e3ff67251c305c9207b4bc054da0245932af",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.243.104:3129"
+  },
+  {
+    "workerNum": 490,
+    "name": "Worker #490",
+    "address": "0x2f3e9C93B7e0e42a0CC41b0B5003B4282786FdD7",
+    "privateKey": "0xa60124cf173453288da1fe3238973412524aea8f46e241a10915c2c700b12b5d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.59.143:3129"
+  },
+  {
+    "workerNum": 491,
+    "name": "Worker #491",
+    "address": "0xce71F8014c39D29343aECeC4a482BdB0A52e7Ef6",
+    "privateKey": "0x463f33c1c03e5e27c258241698ad86994bc18b8cb1be7f81e124d53b35bd1b96",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.30.90:3129"
+  },
+  {
+    "workerNum": 492,
+    "name": "Worker #492",
+    "address": "0x7d8708F4ce92a650ABC37C3b84ED8bb0b66f51dB",
+    "privateKey": "0xd149b12ce78709820297a803e615bed9aaaa96f487ccc8daa0f2de848d60bd6c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.253.3:3129"
+  },
+  {
+    "workerNum": 493,
+    "name": "Worker #493",
+    "address": "0xe265Eb7b67146B16263CA9CAdBb38A449FAf44B1",
+    "privateKey": "0x19006178e1060bef36946b42130f5057acad63de8a66e8ba021e7d2976d5f01a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.176.182:3129"
+  },
+  {
+    "workerNum": 494,
+    "name": "Worker #494",
+    "address": "0xbFC562e480c6026f2b5Dd49187D85449f5ea19FC",
+    "privateKey": "0x204c8463779ebf01b8e33b118ab4894c3f5a9566bfea48e4a6d20d1d91ad5597",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.46.20:3129"
+  },
+  {
+    "workerNum": 495,
+    "name": "Worker #495",
+    "address": "0x29621f3849BfbDF71379EDE20E9c9ABfC0df7887",
+    "privateKey": "0xd8aab9dbf7cf7587e86914fe93f2dd4957fd1d307577d95e8dc8dde767c9651f",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.40.10:3129"
+  },
+  {
+    "workerNum": 496,
+    "name": "Worker #496",
+    "address": "0xE8E8B131C35A7AA378965d9D4034fbeD47aDD064",
+    "privateKey": "0x8097802920d218f40f219a78269a2517596f2ee6b28cbd270ea5955e03eb38ff",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.39.58:3129"
+  },
+  {
+    "workerNum": 497,
+    "name": "Worker #497",
+    "address": "0x8405Ec08c48abD41E1bdB662B710ac0E880A933E",
+    "privateKey": "0x8b309f88be74ee682f38bfb63765063f69952934dac226aea205c21808617f67",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.230.104:3129"
+  },
+  {
+    "workerNum": 498,
+    "name": "Worker #498",
+    "address": "0x094299A9f59d1105F68b38540aC58c38E1CE8fBD",
+    "privateKey": "0x4e0602956085baf03329ed08a68ee6f05c73700c570a610668845cc7a2876105",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.238.214:3129"
+  },
+  {
+    "workerNum": 499,
+    "name": "Worker #499",
+    "address": "0xC1F19D0718F05fa2e3F535606444184d348ad1Ff",
+    "privateKey": "0x18df8d998370e9f04fa263ddbd37c83f673404897d1c9550fdd87d03fe8a4e6a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.36.76:3129"
+  },
+  {
+    "workerNum": 500,
+    "name": "Worker #500",
+    "address": "0x627dA54222d6C16c35446ae6401E90Da0c6052fc",
+    "privateKey": "0x014f79ec0814608f1e750d519e82c5688f736235a7f05400da6081707fd7bbfd",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.56.152:3129"
+  },
+  {
+    "workerNum": 501,
+    "name": "Worker #501",
+    "address": "0x5833D2d23b2EFe25D505C1E5EDb3f6B28c8f7861",
+    "privateKey": "0xaf963972e369f14683db0096eaecfadfa9e191d7f47bc2a240aa9496e9228018",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.174.70:3129"
+  },
+  {
+    "workerNum": 502,
+    "name": "Worker #502",
+    "address": "0xEEaaD18ac012950E4FA7571A008Fe3429c08eA03",
+    "privateKey": "0x89edfe0cc6ca8f9251f75b366781333ed71a39112ae7aaa15b352e235b084549",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.43.145:3129"
+  },
+  {
+    "workerNum": 503,
+    "name": "Worker #503",
+    "address": "0xA454e6BcE76e621b0c5EFB3D2017208aeb231454",
+    "privateKey": "0xaee94603151655d8cf6cd2988063ceb9e335f225f76f161f9fb34ab863ff1358",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.171.89:3129"
+  },
+  {
+    "workerNum": 504,
+    "name": "Worker #504",
+    "address": "0xbdF692b47204419136ea83055a25fe346813cb4F",
+    "privateKey": "0x203701a0d71444733beaa0b3b1610ac71c44a41bc344d82374e6e2c1158e0b0a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.181.9:3129"
+  },
+  {
+    "workerNum": 505,
+    "name": "Worker #505",
+    "address": "0xb1bdfA2569bAD4292C421BdC8a56F3B2D44Cb488",
+    "privateKey": "0xc4710ceaafada08029414b545ee4c2a036bb7ea3835699d4bd103178ee68c584",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.227.252:3129"
+  },
+  {
+    "workerNum": 506,
+    "name": "Worker #506",
+    "address": "0x2EDe5a242c862A98D355dA192d8570d594C2F247",
+    "privateKey": "0x3b4f7bd48a1185e9da5e50706d079e1613df0ce473803a94e50093dc7bf75cb6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.5.147:3129"
+  },
+  {
+    "workerNum": 507,
+    "name": "Worker #507",
+    "address": "0x3528B4A93D0205f0C46c5a53Ab4057c85D8c7328",
+    "privateKey": "0xe80ded11753d9879e1032e77a634e6f304b906773b5ba7324e5da7dd8d59bb5b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.35.172:3129"
+  },
+  {
+    "workerNum": 508,
+    "name": "Worker #508",
+    "address": "0xeeA34450BdC1AFF47Db02f0b1320C3f1084f4941",
+    "privateKey": "0xfb9b39327a5d802748e5c18cb91a7a00d539899edfa5d464e4fb80c36815e391",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.240.170:3129"
+  },
+  {
+    "workerNum": 509,
+    "name": "Worker #509",
+    "address": "0xE5eb644b95Ae503E07f94ed925698A9A9761E3fe",
+    "privateKey": "0x153861b29e9a8db95d283d0822209d196149ecc54318710703d59f78a00cfe53",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.179.184:3129"
+  },
+  {
+    "workerNum": 510,
+    "name": "Worker #510",
+    "address": "0x2A60907b2061F3f46DF742b19cc1397F4e4096B0",
+    "privateKey": "0xf06a34d8c8a86e9e265dbe65b3485274459a4284402057e1f389cb038d174387",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.242.135:3129"
+  },
+  {
+    "workerNum": 511,
+    "name": "Worker #511",
+    "address": "0x29D20558C552ece952e08695e1Ee7dc8878Ff2Eb",
+    "privateKey": "0x71771dc63d0681e8e08afe5e849cc136f6deee8a91805c757540ffbb3ec35f00",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.78:3129"
+  },
+  {
+    "workerNum": 512,
+    "name": "Worker #512",
+    "address": "0x4C39b5f10F4243a559143F835FFb73453f0dd0d4",
+    "privateKey": "0xb37545d5e368a24700b37c466ffce84ca2b03ea4b506fb7745e1cdcd9c5cada8",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.44.81:3129"
+  },
+  {
+    "workerNum": 513,
+    "name": "Worker #513",
+    "address": "0xfa0B21080cA2a18e4e84093832356B79eb191c44",
+    "privateKey": "0xa658dcd901e1139e03e6940a1f5db66204652bb1941aeb351affc6a07f7f0ce7",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.10.211:3129"
+  },
+  {
+    "workerNum": 514,
+    "name": "Worker #514",
+    "address": "0x2a1B176949bad30F97B2ce4Dfa52a08A653F8Dd1",
+    "privateKey": "0x17458ca635505600e9ebd7cd56bc955c28dbe477e7819d1f9dc14843bd58284d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.57.19:3129"
+  },
+  {
+    "workerNum": 515,
+    "name": "Worker #515",
+    "address": "0xA6933073F5664cF00918F2ccAaa76b26acffbFE5",
+    "privateKey": "0x557c95990456c9ab226b712af83f4f064857073ba78069ba74afedbadaac97e2",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.12.167:3129"
+  },
+  {
+    "workerNum": 516,
+    "name": "Worker #516",
+    "address": "0xd6f3Ffa09ee6C64833E7bc85a27dF46239dC2fDC",
+    "privateKey": "0x5eed68165658de6a03817704628540a93b6f79a02553647f76626a8dc364041d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.245.171:3129"
+  },
+  {
+    "workerNum": 517,
+    "name": "Worker #517",
+    "address": "0xdd3A8aDE49b518eEa1a893829F69227811B60D07",
+    "privateKey": "0xf7db20c06cd9d9ddae574eeb764638c11a1836e63a1422e58803c7b8027c76f6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.47.81:3129"
+  },
+  {
+    "workerNum": 518,
+    "name": "Worker #518",
+    "address": "0x190f70Db38407A12F80a24DAe49Aa1aB06cfc4e0",
+    "privateKey": "0x304eba342404a191c1c5d03b157d28d4d0b61ba33011bb6966bf549e4921b1ab",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.167.19.79:3129"
+  },
+  {
+    "workerNum": 519,
+    "name": "Worker #519",
+    "address": "0x95c8580c943c53D299b0fDdEb466DCECd67De6e6",
+    "privateKey": "0xd8e9a6e33f5814a394001aac96e9226134419a15ede0c73152e493a1494d089e",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.250.231:3129"
+  },
+  {
+    "workerNum": 520,
+    "name": "Worker #520",
+    "address": "0xC8431ED8d05380778ced05A869C7f1FC27719ECf",
+    "privateKey": "0xdae7b566e6aa2861ea5473e66a65df8c4cd83775c096c3ccc8b7be480130d200",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.255.73:3129"
+  },
+  {
+    "workerNum": 521,
+    "name": "Worker #521",
+    "address": "0x89E903AEE9d5Cb623Aee04c73748BE0D1Be319C8",
+    "privateKey": "0x23ff41f2698a8b3aa07ff37e1403322d5fbed14b3af3f1f5f9b142b4193c3337",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.35.187:3129"
+  },
+  {
+    "workerNum": 522,
+    "name": "Worker #522",
+    "address": "0x2f18309071fe16cd3AA4DC797E8C0E91fb8028D0",
+    "privateKey": "0xb91ef7344d6dd7b3a8ff78c9ae1e63bbcc6b8f82be4b44b8d2d87b8bc5a062d5",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.243.182:3129"
+  },
+  {
+    "workerNum": 523,
+    "name": "Worker #523",
+    "address": "0xb3A5f38f2E6ae97e2b82709a9B37123976f2622D",
+    "privateKey": "0xd244aa75c919cce91382a34787d22ad78f4455e549e91e84214236818860311b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.53.29:3129"
+  },
+  {
+    "workerNum": 524,
+    "name": "Worker #524",
+    "address": "0xd51b324FeB16b5333725175feD4cf5c6a392Aa9F",
+    "privateKey": "0xacb9570af5ea34ad162f010c14a2447b0b5e26d5dae559d31f83a1d0770de8cd",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.47.136:3129"
+  },
+  {
+    "workerNum": 525,
+    "name": "Worker #525",
+    "address": "0xEfC2Aac08b96A4cf2DEda6a7B6aaD280296C5E9f",
+    "privateKey": "0x8ca05f3589f167a015db16cb421b7ebd33aa925269aa0ba8f25e9abe83dde52b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.249.178:3129"
+  },
+  {
+    "workerNum": 526,
+    "name": "Worker #526",
+    "address": "0xe90aaCdA2943608989e8b114E917B760d7162F29",
+    "privateKey": "0x34fdba3db3c9379b0bde1e455c909c516239c5dbda9d4ca004b108d1d4471c00",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.61.2:3129"
+  },
+  {
+    "workerNum": 527,
+    "name": "Worker #527",
+    "address": "0x2A57Ff293912189e62590597Bdc5458d7Fdc4d76",
+    "privateKey": "0x2dfb72f6d9977a68f1ef41d9795798f46c248a11fdc3b4120e65c92518321fc9",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.180.99:3129"
+  },
+  {
+    "workerNum": 528,
+    "name": "Worker #528",
+    "address": "0x5835C51d7a73e609e18630c5DC1ff03c5450A535",
+    "privateKey": "0x4927ae8666191518bbe67dfd5bd8aefc7d57312982c536fdf00a79ff9debd5a0",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.37.254:3129"
+  },
+  {
+    "workerNum": 529,
+    "name": "Worker #529",
+    "address": "0xcDa52323813ADc5F62d8B10bdEae58924f7209a3",
+    "privateKey": "0x53faa8b6de056ab9b26a6735808831a0e47f7d4d83bb2ab40ac86e956ce21381",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.173.184:3129"
+  },
+  {
+    "workerNum": 530,
+    "name": "Worker #530",
+    "address": "0x50709C5604DA319a6b43Cb147AE5332934a73fBd",
+    "privateKey": "0x6b8d3868e8f309be77ce0b768a34e1fc5a254edf2b52f8ef25d989f4b7b3a56d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.39.191:3129"
+  },
+  {
+    "workerNum": 531,
+    "name": "Worker #531",
+    "address": "0x892cd038Aa6E47466490E3fc659273331F5e51C0",
+    "privateKey": "0x527695df1325012a09e49b9d31e8d273b8909925c1cb2a99ca270831cfbb14b6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.224.174:3129"
+  },
+  {
+    "workerNum": 532,
+    "name": "Worker #532",
+    "address": "0x45f7Ae63Fb4292301A32ca906cBd85D4b2Ce1b26",
+    "privateKey": "0xbfb0e72f169d961253dbee3d34c41ef8f162583396df1d1ebb5cd1e583fedcad",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.56.216:3129"
+  },
+  {
+    "workerNum": 533,
+    "name": "Worker #533",
+    "address": "0xD267B9b86e8048B2207214d311755eaae2A919e7",
+    "privateKey": "0xa73d08fbe6b6b6d9e9f7f47218978e897cc67a0be12bce7b16e5a6e14407d2b2",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.52.23:3129"
+  },
+  {
+    "workerNum": 534,
+    "name": "Worker #534",
+    "address": "0xF1aE0E26906d5b99b281bB6188d7A09Bd53034bA",
+    "privateKey": "0x0c42c7e6add9a603e299437e8c5373b30ac11ee5732c36ae2bb1d8aa650559eb",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.165.116:3129"
+  },
+  {
+    "workerNum": 535,
+    "name": "Worker #535",
+    "address": "0x4FE5a687E0C399f1Ff7086E0658265b9F334eC59",
+    "privateKey": "0xcc62582038fcecce77c8169de3cf746142e72825efb01a561278b74fe2ea4535",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.249.165:3129"
+  },
+  {
+    "workerNum": 536,
+    "name": "Worker #536",
+    "address": "0xd9f998760aE27C74966acd30fD6E45340cAc53eC",
+    "privateKey": "0xac01868df163875589f72a78a18656b7f48e14aaf11b39cae0bdbcc6e068c684",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.53.165:3129"
+  },
+  {
+    "workerNum": 537,
+    "name": "Worker #537",
+    "address": "0xa00a4Ae396553afB63f34488FB3cBc2708f5ebef",
+    "privateKey": "0x174d13f5aebabc9a757456c0403c07e9a09fc316953e90c6c9fbbb113dd55e28",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.62.188:3129"
+  },
+  {
+    "workerNum": 538,
+    "name": "Worker #538",
+    "address": "0x666F604E35ddf0DCd187F43a0e737703b2FABB54",
+    "privateKey": "0xb72bfd130c207a2b02ff2623fb6721627d1230787c24b357ad9614eb5eb6b765",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.251.9:3129"
+  },
+  {
+    "workerNum": 539,
+    "name": "Worker #539",
+    "address": "0x6B588A442dF74C50F240Dd996EABc3642D62B447",
+    "privateKey": "0x2b09bc26a920e320069ba43df1557be214fc6f2ca513789836be1ddf17f26da6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.36.60:3129"
+  },
+  {
+    "workerNum": 540,
+    "name": "Worker #540",
+    "address": "0x0248D95d3A0fF88A0A3D2015468f28F283609603",
+    "privateKey": "0xbbadd803ca6bba732aeaa5dc4244200a08ee8e84be080c8262633ec49520f82b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.230.180:3129"
+  },
+  {
+    "workerNum": 541,
+    "name": "Worker #541",
+    "address": "0x69e0539F40C8ECb70C96Dd3A8E23DDBA9357bCE5",
+    "privateKey": "0xf8657f3245dcac0896a19035bced67bbfe6a3849b656f574448b4b4dbf97fccb",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.177.97:3129"
+  },
+  {
+    "workerNum": 542,
+    "name": "Worker #542",
+    "address": "0x0507861D86B7900105d3C464eB899524f555e9aA",
+    "privateKey": "0x35a1f85c0c8d85aa57221e239675c701e02bdad91af945a7102406c5c4611cd9",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.32.105:3129"
+  },
+  {
+    "workerNum": 543,
+    "name": "Worker #543",
+    "address": "0x15f2FB1aEC535957Fe0E71727245fC0606D8E15C",
+    "privateKey": "0x46d68b3ecacb08c85ddf65593fbd378486504820987ff654cd6864886aca69e6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.51.255:3129"
+  },
+  {
+    "workerNum": 544,
+    "name": "Worker #544",
+    "address": "0xf234B730dD547A43EBa9b82DA24e5BDF9d2D15E1",
+    "privateKey": "0xba7e03c43dee79a55968ffba34acd5124dcafa471ff9dcee4fed12d13ed713e8",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.34.147:3129"
+  },
+  {
+    "workerNum": 545,
+    "name": "Worker #545",
+    "address": "0x5c444D2ff55830f2D80FBdA3C7FE7E84B76E0b5f",
+    "privateKey": "0xe2e17aad2bfe49e987e885e45d1e1aaed1c6edbb4b0a2fbcd048ff32b39653ad",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.15.128:3129"
+  },
+  {
+    "workerNum": 546,
+    "name": "Worker #546",
+    "address": "0xD1660744Ac5eA5e262822d337534780Cef92D565",
+    "privateKey": "0xbeccb8b0e814a131b33b1995963cbc7ab0bc9c40a1c29ed1e3d947c42a24f82f",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.188.66:3129"
+  },
+  {
+    "workerNum": 547,
+    "name": "Worker #547",
+    "address": "0xdcF1c753a8169CA6CDAe4E09e987e52886E8185c",
+    "privateKey": "0xb4e8d3bc53e07acb4f1ac5ed2dd57a9fd69af1286ef2ea3a2146d2dfa9d309de",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.51.69:3129"
+  },
+  {
+    "workerNum": 548,
+    "name": "Worker #548",
+    "address": "0xf88d56A1Ba1F7eE28765cb799519126031dfa2E9",
+    "privateKey": "0xe833d80734170c702c123650fba686037da15e26141cb6ca30605ae047bee099",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.168.212:3129"
+  },
+  {
+    "workerNum": 549,
+    "name": "Worker #549",
+    "address": "0xe6467d2F430Dbe8bE34F67CdfeBF35add56ddB99",
+    "privateKey": "0xad4d293598e8fc94019685c926a9f128920911a7565272f638a31f031f1c5f67",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.231:3129"
+  },
+  {
+    "workerNum": 550,
+    "name": "Worker #550",
+    "address": "0x409fe30f8e2b922331eE6d9E5C948e917f941b10",
+    "privateKey": "0x28a602d5a62ff169d8f44b5f3f80192791f426801bb4aaa6267a2d27fda7d7fc",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.56.3:3129"
+  },
+  {
+    "workerNum": 551,
+    "name": "Worker #551",
+    "address": "0x21ec02f8c1067Ea29C913C6fCb4c85345ca9e795",
+    "privateKey": "0x1db72fd2282263c71cc6cc4f7cd99e1598dc5dc178699ac68ea3b5ece745820a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.48.0:3129"
+  },
+  {
+    "workerNum": 552,
+    "name": "Worker #552",
+    "address": "0x99DDE87f1514B650D09aa79BBD958E4BD3188c14",
+    "privateKey": "0x35c911dd06b12a9d971d9085e9a60b6fdcf14afbad43bebffd2bdbeeccc5fa8d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.227.238:3129"
+  },
+  {
+    "workerNum": 553,
+    "name": "Worker #553",
+    "address": "0xbfE4Cc845b61911191b3615aDeA3947b286cA80A",
+    "privateKey": "0x52553bbe9fd0f7208d91b6b89395aa90b93471b6be9cfe357172ee3c060eb0e7",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.231.15:3129"
+  },
+  {
+    "workerNum": 554,
+    "name": "Worker #554",
+    "address": "0x00D9ac8E181023B240449533D57EF2D10D3321C3",
+    "privateKey": "0x81224a93b82b388c0dc14425a2a9a0aab42d09c197b645bd5b3a1035795473af",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.4.162:3129"
+  },
+  {
+    "workerNum": 555,
+    "name": "Worker #555",
+    "address": "0x4e3A6808dC3a35B776471c3377B5A78af5A437A5",
+    "privateKey": "0x28dadb8149046bf1a038f555c28c45c7136fe318a37934be96a50981761e432f",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.176.95:3129"
+  },
+  {
+    "workerNum": 556,
+    "name": "Worker #556",
+    "address": "0x2c2B010600737A7ca345baCc1b1D76ae3e6c1D4a",
+    "privateKey": "0xd643f55482e88d6d0ea40345b243d19955a643a0a9e14ed7dde6ec9c72c8883a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.255.54:3129"
+  },
+  {
+    "workerNum": 557,
+    "name": "Worker #557",
+    "address": "0x6CcD84794d403EA01B26B06364a88122e50978c6",
+    "privateKey": "0x22128272e622f3702f303dc6122ea9dafbf8392b351443670d9adc7bf5ea8272",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.1.106:3129"
+  },
+  {
+    "workerNum": 558,
+    "name": "Worker #558",
+    "address": "0xCb5E33bB696790959123383E82D5A58C6E92B614",
+    "privateKey": "0xa3e429e9c4150c708b3c551354cfb71f25fd7814581527f489b38337894ef7d4",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.252.126:3129"
+  },
+  {
+    "workerNum": 559,
+    "name": "Worker #559",
+    "address": "0x25BEACf99838862347e9C31c2A4897dcED6147d7",
+    "privateKey": "0x8088fb71e94a0ef0c8262fbc55989b26dbe048643d2fa2b50c4a0beabd18a3d7",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.180.64:3129"
+  },
+  {
+    "workerNum": 560,
+    "name": "Worker #560",
+    "address": "0x0a570B7209b83FA9c9c0897E2184C0D4727E5939",
+    "privateKey": "0xfb94c12dcf499a0295bef1f21c55c5db6336f9420d4260f3e05ab7b9483883ec",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.252.146:3129"
+  },
+  {
+    "workerNum": 561,
+    "name": "Worker #561",
+    "address": "0xd5358f3D80a1Db6b8A29cCC71786AfAf1b77CED7",
+    "privateKey": "0x9237e271918e27d27a8d506a9a467f408fce05ba19ba7cf13357f20b950faf43",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.167.25.125:3129"
+  },
+  {
+    "workerNum": 562,
+    "name": "Worker #562",
+    "address": "0x25Fe2CE6b3929BDDe0959A7dA67AABf43C0804e5",
+    "privateKey": "0xcd60972fdc8a37f18614d7e9ecdb2b1c1118409126b6a65247761477e4e5736e",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.23.207:3129"
+  },
+  {
+    "workerNum": 563,
+    "name": "Worker #563",
+    "address": "0xCb322cB6E544c606c0D7110ab63215882bc680e3",
+    "privateKey": "0xc05dcc8b0e82ff72d522925ea5b45b35182d62b30c9e5f083db24b3f6eb342fd",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.179.163:3129"
+  },
+  {
+    "workerNum": 564,
+    "name": "Worker #564",
+    "address": "0xA1fF8C8Ad5E45229Fe185e4739236544c1a25550",
+    "privateKey": "0x623e879c7119b9247b2c0fd39cd3281d1a0138965d31cee7a5727dab3fff736e",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.42.119:3129"
+  },
+  {
+    "workerNum": 565,
+    "name": "Worker #565",
+    "address": "0x0577D2F2ff1F0Bc3f4206DAfcC68770Aa2A8BEA1",
+    "privateKey": "0xaeb63e1e4a360fd8cb69d2b5052b1ee9b87f1b59bcdb332586f4dce27ffcc7a2",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.40.188:3129"
+  },
+  {
+    "workerNum": 566,
+    "name": "Worker #566",
+    "address": "0x21409F57ff1d228Fb848C28211fE8A413196cDBf",
+    "privateKey": "0xfebd3b3f4d3a4a713b04431c8a850ee1984bb91f2e694a0b5665b3552f04c20f",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.4.55:3129"
+  },
+  {
+    "workerNum": 567,
+    "name": "Worker #567",
+    "address": "0x40853B0967F26eFB6BC85A889EE370959b22d6F4",
+    "privateKey": "0xb00f848aaff645471d7561ef9ddbf3612831c27ba163eee54ef8e743c60600cd",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.42.164:3129"
+  },
+  {
+    "workerNum": 568,
+    "name": "Worker #568",
+    "address": "0x7cA01A0f21C6F3aea8B423d19cd56F1291389F9a",
+    "privateKey": "0x6082d3fe986916eb78d2d1dd83e0d6aa01d3d3f012ac666d5728069790328f71",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.166.80:3129"
+  },
+  {
+    "workerNum": 569,
+    "name": "Worker #569",
+    "address": "0x41A82da265C1eD45eA61fA95F72c9666Ad0A5Bc5",
+    "privateKey": "0x9be968208039229b90a34298fbaf53b584acefcdf7b5c0f6d35baf58840fc2eb",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.54.200:3129"
+  },
+  {
+    "workerNum": 570,
+    "name": "Worker #570",
+    "address": "0xE46580421fDB998AEC75BD4b64573fb09C582660",
+    "privateKey": "0xbf5fa3c1f1eeadafefd1bb4c9a6f32d91fb73c91473ead393609c2d082cb0b98",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.50.167:3129"
+  },
+  {
+    "workerNum": 571,
+    "name": "Worker #571",
+    "address": "0x0384AC3AcDEBb7508be8F5Ce9976Fc89d03864CF",
+    "privateKey": "0x242df6c475de4f27f269d90ca56dc7668ad25182cce402bafc59fbcac123dbaf",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.41.194:3129"
+  },
+  {
+    "workerNum": 572,
+    "name": "Worker #572",
+    "address": "0x93894582A252c157D1606649215576DFE4E89793",
+    "privateKey": "0xa3875414b6ef4cfa82b3008d3fb11bbf41fad952d469151b092008f8e0cd8625",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.244.206:3129"
+  },
+  {
+    "workerNum": 573,
+    "name": "Worker #573",
+    "address": "0x57430CB68EA922a1F6797a0e7CdEfD6Fc2dc2952",
+    "privateKey": "0x8fa18201a46bb7b6562d9b4ea42897a87ee5eacf95464c68a60b4db0f084bf5c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.188.58:3129"
+  },
+  {
+    "workerNum": 574,
+    "name": "Worker #574",
+    "address": "0xDC205893399B88a396D39a132171F524D681f397",
+    "privateKey": "0x9861e72da488bb34790beb1c00901f449c99a8ee51fbae5ab4537b44bb9f6cda",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.47.234:3129"
+  },
+  {
+    "workerNum": 575,
+    "name": "Worker #575",
+    "address": "0x53fEDFdD5639E7314Fd42db8f10C002a2Bc7b0F5",
+    "privateKey": "0xaf9ea34f6e1e6a9b27e090eaefa62cf29463d73e93b8463d3558743e5fed260d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.34.147:3129"
+  },
+  {
+    "workerNum": 576,
+    "name": "Worker #576",
+    "address": "0x041Ac3be7fA556be519c4825517F984157781fb3",
+    "privateKey": "0xb450e81382160b9bff5b57b5e41eacb9ae006c7d016156bf915022f362fff8e2",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.37.190:3129"
+  },
+  {
+    "workerNum": 577,
+    "name": "Worker #577",
+    "address": "0xec224F1684d70C705d27D541343c593443Cdd22c",
+    "privateKey": "0xf687dc2b8aa6e0cee1cfda5df13196cf0876d6c62947c5f3e45f29af63aadf12",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.246.253:3129"
+  },
+  {
+    "workerNum": 578,
+    "name": "Worker #578",
+    "address": "0x39A802dF157C5161a50b5251a48D4793a046936E",
+    "privateKey": "0x9864240083b8bad3a935c4641404d5df29f6b2eae9f152d35fdbb0a4dfa41609",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.160.201:3129"
+  },
+  {
+    "workerNum": 579,
+    "name": "Worker #579",
+    "address": "0xa78DF9B3F3b7C0a1dCe389264399E88E33eb055d",
+    "privateKey": "0xc03f6e869a9234065be7c54b6934b859e2b03d4ac93ed9ec0288659f6ab6d1bd",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.112:3129"
+  },
+  {
+    "workerNum": 580,
+    "name": "Worker #580",
+    "address": "0xFC20aD5c21bAaf1d83C684F3c65b89F194147dD7",
+    "privateKey": "0xb26e06e71a078926683d4670a3621f763e57b4d37bf4f14af30d0e9e2ffd6fb6",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.254.35:3129"
+  },
+  {
+    "workerNum": 581,
+    "name": "Worker #581",
+    "address": "0xEf29f711d124200Af5841507Feb5FAd33EebA7E6",
+    "privateKey": "0xcd3c665d65fadfec6f4cab3ea68fed9a7a8174b5448f9a75be10d998ea1ce37a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.173.76:3129"
+  },
+  {
+    "workerNum": 582,
+    "name": "Worker #582",
+    "address": "0x36a9dA2C62cc84b9d8121a13286814A6EB10E1Af",
+    "privateKey": "0x3cf1f2a79dad712ef07a701d8cfc3aecc63c0b82e0f8a6f7b771c557f3293160",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.30.160:3129"
+  },
+  {
+    "workerNum": 583,
+    "name": "Worker #583",
+    "address": "0x26630c32BF0B990D6FbdA05Aa6cdb7718E80F7bc",
+    "privateKey": "0x6c53771ba3f1381e608c3e52eec12f637ba2eb0da7906d7b878e4273371b6053",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@151.123.176.251:3129"
+  },
+  {
+    "workerNum": 584,
+    "name": "Worker #584",
+    "address": "0x6FB2F85Aab16A7EeAd98b12e25cE1CD78531963F",
+    "privateKey": "0xcf5516d88cb24700680dd9710a25a298ccf2dae9c6265515b2cf287ca560bf85",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.160.29:3129"
+  },
+  {
+    "workerNum": 585,
+    "name": "Worker #585",
+    "address": "0x346643Bc9c829520504DCE911fbf836183bb9583",
+    "privateKey": "0x8a410e892eed801fd2f4181f60c49182e74cbc1eb62ebbc23f9a8f6dcb68c48b",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.21.125:3129"
+  },
+  {
+    "workerNum": 586,
+    "name": "Worker #586",
+    "address": "0x4daB672e748dAD0E8C157E9a5A151D8c12759009",
+    "privateKey": "0x9d7a714c6dd501633eab6d41d24289bc15893174e731bc992e501599f0cfb896",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@45.3.54.183:3129"
+  },
+  {
+    "workerNum": 587,
+    "name": "Worker #587",
+    "address": "0x708E04Bc6Ff9283cC076F980C632E7e990C326Bf",
+    "privateKey": "0x3bd12d72e30f7806c52d41baf602aeb3a372b37f155246163cf3b8c5e00dde23",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.181.108:3129"
+  },
+  {
+    "workerNum": 588,
+    "name": "Worker #588",
+    "address": "0x69E57a0FE0EA82044cFeB45a2B05b46d9aa6E4a5",
+    "privateKey": "0x72ebde0eb1fcc837dc7370d02462ce29c2a0b79af15e45685f8b0af18fac117e",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.61.144:3129"
+  },
+  {
+    "workerNum": 589,
+    "name": "Worker #589",
+    "address": "0x606A3D9E57e0eb8ABA80B40Bce793E790403b8a5",
+    "privateKey": "0xd0415d145f662313103c48ec2cb8ad38d90e5ec6d6b1aac181d404e975e40c7d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.243.104:3129"
+  },
+  {
+    "workerNum": 590,
+    "name": "Worker #590",
+    "address": "0x389006aD43A0D5b792F39E324C1CeCb452F05982",
+    "privateKey": "0x4133d01a2064b7ea9cb2856d970dfd58835d20536ea28f79ce1c7e2dcd5b1d4a",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.59.143:3129"
+  },
+  {
+    "workerNum": 591,
+    "name": "Worker #591",
+    "address": "0x5AfF7E5Fc9c9131c659859d1b41e43Ef8aB1d569",
+    "privateKey": "0xc4a3f6c2ba554fcd357b1d3bbd8212b7307dc9e990de887955370ea57597581c",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@65.111.30.90:3129"
+  },
+  {
+    "workerNum": 592,
+    "name": "Worker #592",
+    "address": "0xf12B903AB2A713b5191612fFC20c71da38c0b3B1",
+    "privateKey": "0xcedae0b49d3bafe9afacd7be7a2f9787f8de3550c2e50cb500aa1efc4ee8e558",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.253.3:3129"
+  },
+  {
+    "workerNum": 593,
+    "name": "Worker #593",
+    "address": "0x7449aeE514FE0deb11b199D478466A70c0c05324",
+    "privateKey": "0x57e8e2fbd1999df3a96209716a2785308b81ac5a3d8fbbf417de6e99aabb44a4",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@209.50.176.182:3129"
+  },
+  {
+    "workerNum": 594,
+    "name": "Worker #594",
+    "address": "0xFCD06051249b1352C607ea272A4639505bB62Ac8",
+    "privateKey": "0xdade71a8520738b62e690fc8707f3513858c804b909d24e6e80125c0a0680b66",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.46.20:3129"
+  },
+  {
+    "workerNum": 595,
+    "name": "Worker #595",
+    "address": "0xc13bea86C4E4c8a0f3aAE5364b830d8d7fae83bf",
+    "privateKey": "0xadd5ded5bdd486ac140898eb8d8270f7ed6b7ca1a4c0edea0363e5c4a712e698",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.40.10:3129"
+  },
+  {
+    "workerNum": 596,
+    "name": "Worker #596",
+    "address": "0xD8Bc8f51A78fEA2813c2038627250C6f3dCE707a",
+    "privateKey": "0xfe3121c4b853718af187ffef047e0f386dc13e4953bf9508ea176a48a78cecfb",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.39.58:3129"
+  },
+  {
+    "workerNum": 597,
+    "name": "Worker #597",
+    "address": "0xbb0b2554bC5f6Fe94E8475756C9aa4c029C5ed42",
+    "privateKey": "0x0f930824dafd1a116af79ff52a280aa07c0bae12c18e1e5571428833386d2f92",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.230.104:3129"
+  },
+  {
+    "workerNum": 598,
+    "name": "Worker #598",
+    "address": "0xeb50f021f85E772f5bFae0771D11de03ad0aBd17",
+    "privateKey": "0x90b5a4bc12b0184116a584dd5dfa9d0f98da1845c3b689df49820258798ea73d",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@216.26.238.214:3129"
+  },
+  {
+    "workerNum": 599,
+    "name": "Worker #599",
+    "address": "0x8463D92286311D8194aa9CcF02C02B8E9247dBed",
+    "privateKey": "0xfda0d82544b9f88986085aa5446a41d1dcc24046ac55d73074d50e7338f9e094",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.36.76:3129"
+  },
+  {
+    "workerNum": 600,
+    "name": "Worker #600",
+    "address": "0xBC2d54D1F3815a9b96A0881455dc1e232876BaA8",
+    "privateKey": "0x6655868b023c514921d9b270b3426c413965651821c825620217e0ac415c551e",
+    "proxyStr": "h3o8wutblb1m:jgyv38jyiit23fx@104.207.56.152:3129"
+  }
+]

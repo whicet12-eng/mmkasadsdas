@@ -1,0 +1,9 @@
+node_modules/
+*.tar.gz
+*.zip
+*.log
+__pycache__/
+fleet_30_status.json
+orex_fleet_status.json
+orex_solver
+orex_solver_turbo

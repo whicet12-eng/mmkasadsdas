@@ -1,0 +1,302 @@
+[
+  {
+    "index": 0,
+    "name": "Wallet 3 (Funding)",
+    "address": "0x5e9e7e37e553d6cc79eD671E8B861b1693cFA5fF",
+    "username": "miner_5e9e7e",
+    "apiKey": "orex_83f310e1c32949b0907e871432d57c37fe41f82d3c1234df",
+    "balance": 174.611174,
+    "proxyIdx": 0,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@45.38.107.97:6014"
+  },
+  {
+    "index": 1,
+    "name": "Worker #1",
+    "address": "0xde0cDb54997eaeC4679449B5C2cF442009A744B8",
+    "username": "miner_de0cdb",
+    "apiKey": "orex_aae81255ae66aef48b9a16ee773bca444766e4e462ec25e1",
+    "balance": 76.988663,
+    "proxyIdx": 0,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@45.38.107.97:6014"
+  },
+  {
+    "index": 2,
+    "name": "Worker #2",
+    "address": "0x5353e4E8c425752C729810892bB2F5ac81e40246",
+    "username": "miner_5353e4",
+    "apiKey": "orex_6bae1b1731236b52572ac04e8ac1d43ad0efb29712fc874f",
+    "balance": 68.089517,
+    "proxyIdx": 0,
+    "proxyUrl": "direct"
+  },
+  {
+    "index": 3,
+    "name": "Worker #3",
+    "address": "0x935C75780007563bF1a388e268c2DA3a4Ae26aA9",
+    "username": "miner_935c75",
+    "apiKey": "orex_ead9e726ec695906d87e45e483a6d889a42bf3449f7dc129",
+    "balance": 0,
+    "proxyIdx": 1,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@64.137.96.74:6641"
+  },
+  {
+    "index": 4,
+    "name": "Worker #4",
+    "address": "0xaCFF74f4014CcA0AB66E28844d3a017E7642bC35",
+    "username": "miner_acff74",
+    "apiKey": "orex_954fb0f1c9f2dbaba51695c31042660d6373150f5b299903",
+    "balance": 0,
+    "proxyIdx": 1,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@64.137.96.74:6641"
+  },
+  {
+    "index": 5,
+    "name": "Worker #5",
+    "address": "0xe17F32ED211f23453AD743a6EF1de1e50148AA2c",
+    "username": "miner_e17f32",
+    "apiKey": "orex_f74d3b34d31347eef7a11978dca031be26c65f79e4b81883",
+    "balance": 0,
+    "proxyIdx": 1,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@64.137.96.74:6641"
+  },
+  {
+    "index": 6,
+    "name": "Worker #6",
+    "address": "0x19908A1be3C01D09291367563363A83553347bDc",
+    "username": "miner_19908a",
+    "apiKey": "orex_b2d227828bbeb4da9ed1d764fc7c2222b7b27ea0a2d2edea",
+    "balance": 0,
+    "proxyIdx": 2,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@198.23.243.226:6361"
+  },
+  {
+    "index": 7,
+    "name": "Worker #7",
+    "address": "0x75dB57Ed430EcE82d38AfE50A83167f15dD275B3",
+    "username": "miner_75db57",
+    "apiKey": "orex_5d3ebaddc2d87b30b4f7a03eb87ecd9aad0bdd8d3dfda535",
+    "balance": 0,
+    "proxyIdx": 2,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@198.23.243.226:6361"
+  },
+  {
+    "index": 8,
+    "name": "Worker #8",
+    "address": "0x039498428f8BdF1177C64e60D5D37d564Bf694a3",
+    "username": "miner_039498",
+    "apiKey": "orex_19fe5e1a93e99d7bb0f9c530ef78d59f5bbc388a927a3c7b",
+    "balance": 0,
+    "proxyIdx": 2,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@198.23.243.226:6361"
+  },
+  {
+    "index": 9,
+    "name": "Worker #9",
+    "address": "0xD69464d811AAD77421B5D80901B4dfB31eE7C8ae",
+    "username": "miner_d69464",
+    "apiKey": "orex_3e3e528558586ff9ed2257c0bd36fe6f688b987ebf57b43a",
+    "balance": 0,
+    "proxyIdx": 3,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@38.154.185.97:6370"
+  },
+  {
+    "index": 10,
+    "name": "Worker #10",
+    "address": "0xa97EeA0CF980b282706F2bc1ec28B3dF0f08D365",
+    "username": "miner_a97eea",
+    "apiKey": "orex_4c62dfd958e6481beb9e3a83b8a8d83bb7ff5fea3442eb60",
+    "balance": 0,
+    "proxyIdx": 3,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@38.154.185.97:6370"
+  },
+  {
+    "index": 11,
+    "name": "Worker #11",
+    "address": "0xe5Ecd8bE2C66e9fF95EC9d81a0b91D6c698d3be4",
+    "username": "miner_e5ecd8",
+    "apiKey": "orex_db7dac6d5317ac2be58e79e59f5cd066ac8b4a1ee561f54d",
+    "balance": 0,
+    "proxyIdx": 3,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@38.154.185.97:6370"
+  },
+  {
+    "index": 12,
+    "name": "Worker #12",
+    "address": "0xa7AA96dE900cbfAb49b82D7153A2c419840856Ca",
+    "username": "miner_a7aa96",
+    "apiKey": "orex_e5b0bc25c9d5925555b614ebfaffd992aedb7ccaaadc03d8",
+    "balance": 0,
+    "proxyIdx": 4,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@84.247.60.125:6095"
+  },
+  {
+    "index": 13,
+    "name": "Worker #13",
+    "address": "0x58C9728d8a80E5447f6075e80202029394841955",
+    "username": "miner_58c972",
+    "apiKey": "orex_b5947e3b3f51917aca2b86db62c9ce155bd8e4fbf91e97f1",
+    "balance": 0,
+    "proxyIdx": 4,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@84.247.60.125:6095"
+  },
+  {
+    "index": 14,
+    "name": "Worker #14",
+    "address": "0x5dCace3b4c9e6c469Dd3E88FF8652348F13ee55c",
+    "username": "miner_5dcace",
+    "apiKey": "orex_74f1c0f39113d0148e1dd5d8c8e9f1835c74f6236675224c",
+    "balance": 0,
+    "proxyIdx": 4,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@84.247.60.125:6095"
+  },
+  {
+    "index": 15,
+    "name": "Worker #15",
+    "address": "0x944B7a96c134F201b36e7f43a9972F8F441Cf2d2",
+    "username": "miner_944b7a",
+    "apiKey": "orex_6693b6e9f9e3e67cd5cf7cd8eef5b2b1355281547a268e74",
+    "balance": 0,
+    "proxyIdx": 5,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@191.96.254.138:6185"
+  },
+  {
+    "index": 16,
+    "name": "Worker #16",
+    "address": "0x0dC18056D37Bb67dFD6c57e21200F0A47AA1c727",
+    "username": "miner_0dc180",
+    "apiKey": "orex_9bfaa82cd4d39d88bc2d0fd6e8ad94aeb69cbfea75d78a27",
+    "balance": 0,
+    "proxyIdx": 5,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@191.96.254.138:6185"
+  },
+  {
+    "index": 17,
+    "name": "Worker #17",
+    "address": "0x42B7dA33e229F0D00Aa681A7D74c842e8366ef13",
+    "username": "miner_42b7da",
+    "apiKey": "orex_00388ba7a85269198f4f7864873bd761f6509e569bf44855",
+    "balance": 0,
+    "proxyIdx": 5,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@191.96.254.138:6185"
+  },
+  {
+    "index": 18,
+    "name": "Worker #18",
+    "address": "0x145D0D73061C517aaab250e2C4CFCCC281495403",
+    "username": "miner_145d0d",
+    "apiKey": "orex_1505ac630807b18f6808e65f5e9a81e18fe89c1eeaa1865b",
+    "balance": 0,
+    "proxyIdx": 6,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@198.46.161.42:5092"
+  },
+  {
+    "index": 19,
+    "name": "Worker #19",
+    "address": "0x810c82732673545CC112509Ca8B5F7dE1528e18F",
+    "username": "miner_810c82",
+    "apiKey": "orex_ddbd9d60cc031cedee6525063cc49302da58b00516285745",
+    "balance": 0,
+    "proxyIdx": 6,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@198.46.161.42:5092"
+  },
+  {
+    "index": 20,
+    "name": "Worker #20",
+    "address": "0xd4eB9FAcCEA3986d60911742eC9506cAAe367357",
+    "username": "miner_d4eb9f",
+    "apiKey": "orex_f342bfe2be8e24949b5b96cebfca1fe0945a864832d9eaf3",
+    "balance": 0,
+    "proxyIdx": 6,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@198.46.161.42:5092"
+  },
+  {
+    "index": 21,
+    "name": "Worker #21",
+    "address": "0x4fFb4FFD534Aa39f435cA521B43f47AC3153e6F3",
+    "username": "miner_4ffb4f",
+    "apiKey": "orex_9f0ce92f660a69b21a03176c2171ab417905f213d655f345",
+    "balance": 0,
+    "proxyIdx": 7,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@64.137.10.153:5803"
+  },
+  {
+    "index": 22,
+    "name": "Worker #22",
+    "address": "0xE0111C9437C9FFeBec2fb722157a7BbbbEecabB5",
+    "username": "miner_e0111c",
+    "apiKey": "orex_def6a3e4d4d94b96e6b8ed2adfde6657627024bcc3a703e8",
+    "balance": 0,
+    "proxyIdx": 7,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@64.137.10.153:5803"
+  },
+  {
+    "index": 23,
+    "name": "Worker #23",
+    "address": "0x89ec3d8a4cEE2F152039202c34FE5884448016c2",
+    "username": "miner_89ec3d",
+    "apiKey": "orex_28f2e955ae337120957c6ba981ebcaffef20b2270f8dd9e0",
+    "balance": 0,
+    "proxyIdx": 7,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@64.137.10.153:5803"
+  },
+  {
+    "index": 24,
+    "name": "Worker #24",
+    "address": "0x45d7A4C29afcBfeec78BA37E5D7b182CE11faD39",
+    "username": "miner_45d7a4",
+    "apiKey": "orex_67e7e552562d9a464397e78948a23fc51209fdef0d814148",
+    "balance": 0,
+    "proxyIdx": 8,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@104.164.49.38:7693"
+  },
+  {
+    "index": 25,
+    "name": "Worker #25",
+    "address": "0xAc3A73bd657B3d07C977221278068CE1AF89576f",
+    "username": "miner_ac3a73",
+    "apiKey": "orex_841cf4ce88012d458d2a1c00cfd6957cb8d2820d331683e3",
+    "balance": 0,
+    "proxyIdx": 8,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@104.164.49.38:7693"
+  },
+  {
+    "index": 26,
+    "name": "Worker #26",
+    "address": "0x242de205521e09C3ba40a14E01bE716f5b352017",
+    "username": "miner_242de2",
+    "apiKey": "orex_e95eb8e4953789ab174fd2d453dcf94e017f517e1150cdc8",
+    "balance": 0,
+    "proxyIdx": 8,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@104.164.49.38:7693"
+  },
+  {
+    "index": 27,
+    "name": "Worker #27",
+    "address": "0x66bEB65A2E0690bD016428c5bc4D51105bB35586",
+    "username": "miner_66beb6",
+    "apiKey": "orex_7507e260e30219649476bf5cb55c37243518668422afddd1",
+    "balance": 0,
+    "proxyIdx": 9,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@23.26.71.145:5628"
+  },
+  {
+    "index": 28,
+    "name": "Worker #28",
+    "address": "0x08Bf496E1dE9405cC249342cd2Aa98Bd3e64485a",
+    "username": "miner_08bf49",
+    "apiKey": "orex_9dbfd01dafd503fda68b341130297732c71699973b323d57",
+    "balance": 0,
+    "proxyIdx": 9,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@23.26.71.145:5628"
+  },
+  {
+    "index": 29,
+    "name": "Worker #29",
+    "address": "0x8160324060853D9D49Ed56bDB37ce41ef1f136CD",
+    "username": "miner_816032",
+    "apiKey": "orex_29943eda8804014ec1062815502784531522941dbc0dffc1",
+    "balance": 0,
+    "proxyIdx": 9,
+    "proxyUrl": "http://ksrywvpu:78k1ebokvy3e@23.26.71.145:5628"
+  }
+]
